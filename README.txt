@@ -17,13 +17,19 @@
 TL;DR - To install:
 	0) Install Linux if you don't feel like waiting for .bat
            files. I hate cmd with such a passion, you have no clue.
-	1) Copy everything inside the game's folder into Data here.
-           That's the folder with the exe.
-	2) Run build.sh.
-	3) It'll ask you what language you want. There's only jpn
-           and en right now.
-	4) Type it and now you can have fun. In english.
+           That said, cygwin should be capable. gcc, xdelta3 and
+           bash are required.
 
+	1) Copy everything inside the game's folder into data here.
+           That's the folder with the exe and its own data folder.
+
+	2) Run build.sh.
+
+	3) It'll ask you what language you want. There's only jpn
+           and en right now. jpn effectively reverts all
+           translation sans the MaihanaConfig.exe binary.
+
+	4) Type it and now you can have fun. In english.
 
 == S002 ==============================================================
 
@@ -60,46 +66,42 @@ documentation.
 The format of the dumped scripts is like this, using an example to
 illustrate what I mean, here's one entry of the translation:
 
-[28 0x000002F0 01 *Patch]
+[text 000002F0 *Patch]
 I'll teach you all sorts of things.
 Select an option you want to hear about.
 
 What is the text should be obvious - the weird square brackets may
-not be as clear. The first three fields are internal use - 28
-is the type of command first encountered, 0x000002F0 is the offset it
-is at, and 01 is the format determined for structures. After that is
-information about the characters which are speaking, etc. Essentially,
-everything after the first three fields is meant as info for
-translators. I may add emotion/expression listing later, but I can only
-show information I know how to extract from what I have RE'd.
-
-What I can tell you; the first field as 28 is always the beginning of
-a new scene. 2A is continuations of said scene. I've made an effort
-to tag the dialogue's speaker with an asterisk (*). Speakers are
-listed by what side they're on of the screen.
+not be as clear. As a result of recent changes, contextual information
+doesn't need to be considered on inject. The second field is the offset
+in the data file as hex. After that, unless using simpleextract, is info
+about speaker, emotion, context, etc meant as info for translators. I
+may add emotion/expression listing later, but I can only show
+information I know how to extract from what I have RE'd.
 
 You have only 256 bytes to work with for dialogue. By default, sjis
 can only have 128, but the program doesn't give a shit and both
 does variable width and doesn't mind them being packed together. It
 must end zero terminated. Also, newlines are inserted as 0x0A, so
-DON'T USE WINDOWS LINE FORMATTING. PERIOD. Also, you need to figure
-where newlines go manually - they are not automatic.
+DON'T USE WINDOWS LINE FORMATTING. PERIOD. I have no clue what havok \r
+could wreak on my code or the game, and it's a wasted byte. Also, you
+need to figure where newlines go manually - they are not automatic.
 
-Onto more technical stuff - You'll only ever see 01 as the third field
-in SceHelp, since the structure of those entries lacks nearly all of
-the data in SceStageMarisa and SceStageReimu.
+Onto more technical stuff - The structs defined in tools/src/structs.h
+should be considered the definitive documentation on the structures.
+I'll try to keep it well commented.
 
 Technically speaking, all strings start with the following hex:
 1D 00 00 00 XX 00 00 00 String...
-I could use this to find EVERY string, but it would be missing
-contextual information like the characters. It will probably be
-added as the fallback of fallbacks in the future so no translatables
-are missed.
+
+I can use this to find EVERY string, but it would be missing
+contextual information like the characters. This is why extract is
+the extractor rather than simpleextract. It scrapes more useful stuff.
 
 More information which should probably be noted - images cannot be
 modified the same way as scripts (e.g. cut-ins for spell cards, name
 boxes, menus). The only way to go about this is to use a tool to dump
 textures out of the files they're contained in, edit, and reinsert.
+
 I'll recommend dragon unpacker or dd and bgrep if you're manly. All
 textures are in DXT format, so luckily exporting images does not
 require size carefulness - the size will always be the same like BMP.
@@ -112,33 +114,42 @@ RE'ing things like scripts since it's evidently a custom structure.
 
 == S004 ==============================================================
 
-If asked by the creators, I'll remove the original japanese script.
+If asked by the creators, I'll remove the original japanese script
+and any fragments from translation files.
+
 The japanese script is provided only for people who would like to
 translate the game, but may not be able to acquire a copy legally
-and DON'T want peglegs and to head off in the seven seas drinking
-a bottle o' rum and singing ye ol' sea shanties.
+and DON'T want peglegs, to head off in the seven seas drinking
+a bottle o' rum and singing ye ol' sea shanties, and other shady
+things of that sort.
 
-I'm the one who translated the english script, however, and unless
-an official localization becomes available (highly unlikely) then
-my github of this will remain. No content of the game itself is
-within the script, and in all honestly the data files with scripts
-can be acquired from the 1.12 update without the game.
+I'm the one who translated the majority of the english script now,
+and unless an official localization becomes available (highly
+unlikely) then my github of this will remain. No content of the
+game itself is within the script files here aside from text, and in
+all honestly the data files with scripts can be acquired from the
+1.12 update without having the game itself.
 
 That said, no original data files will EVER be allowed here. Only
-patches, and script data.
+patches and script data.
 
 I'm doing this for fun and for the sake of education - it involved a
 shitload of RE and served as a way to brush up my crappy japanese.
 Both of which are technical things which I greatly enjoy. The last
 thing I want to do is step on the toes of the creators of this
-great shmup! (/^_^)/
+great shmup! Keep making awesome shit, Souvenier Circle! I love
+Croixluer Sigma, btw. Bought it in english before it was even sigma.
+(/^_^)/
 
 == S005 ==============================================================
 
 TL Notes:
 - There's some punny shit in the distorted zones. Komakan vs Komakyo.
   I've no clue how to capture the meaning of that, so expect
-  'creativity'.
+  'creativity'. 「紅魔郷」
+- Terms lookup
+	秘密
+	紅魔郷
 
 == S006 ==============================================================
 
@@ -146,7 +157,6 @@ Translation%:
 	Reimu Route (SceStageReimu.vol): 
 		Stage1				100%
 		Ex1				~90%
-		Stage2 				0%
 	Marisa Route (SceStageMarisa.vol):
 		*				0%
 	Tutorial (SceCommon.vol): 		0%
@@ -163,12 +173,10 @@ Tools:
 		SceStageMarisa.vol		100%
 		SceHelp.vol			70% (I'm not sure if everything is picked up or not.)
 						    (Needs a run through with a hex editor)
-	Not readable:
-		SceCommon.vol
+		SceCommon.vol			??% (Must use simpleextract)
 
 == S008 ==============================================================
 
 Cleanup & TLC:
 	Reimu Route:
-		Stage1: 		Check me.
-		Ex1:			Check me.
+		0% TLC done

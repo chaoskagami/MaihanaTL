@@ -1,1666 +1,1666 @@
-[28 0x00000374 02 *Reimu]
+[text 00000414 *Reimu]
 ゆっくりお茶でもって
 思ってたけど
-[2A 0x00000524 02 *Reimu]
+[text 000005A8 *Reimu]
 お茶だけあって
 お菓子がないのなら
-[2A 0x000006B8 02 *Reimu]
+[text 0000073C *Reimu]
 ささやかな楽しみすらも
 ままならないのよね
-[2A 0x0000084C 02 *Reimu]
+[text 000008D0 *Reimu]
 それにしても、魔理沙のやつ
 いったいどこへ…
-[2A 0x000009E0 02 *Reimu]
+[text 00000A64 *Reimu]
 お宝がどうこうって
 飛びだして行ったから
-[2A 0x00000B74 02 *Reimu]
+[text 00000BF8 *Reimu]
 きっとおつかいのことなんて
 忘れてるに違いないわ
-[2A 0x00000D08 02 *Reimu]
+[text 00000D8C *Reimu]
 また貧乏くじひかないと
 いいけどね…
-[2A 0x00000E9C 02 *Reimu]
+[text 00000F20 *Reimu]
 あれ？
-[2A 0x00001030 02 *Reimu]
+[text 000010B4 *Reimu]
 この湖って
 こんなに広かった？
-[2A 0x000011C4 02 *Reimu]
+[text 00001248 *Reimu]
 違う。
 ここは前と何も変わってない
-[2A 0x00001358 02 *Reimu]
+[text 000013DC *Reimu]
 霧で視界が悪くなっているから
 広くなったみたいな気がした
-[2A 0x000014EC 02 *Reimu]
+[text 00001570 *Reimu]
 って、ことかな
-[2A 0x00001680 02 *Reimu]
+[text 00001704 *Reimu]
 ……
-[2A 0x00001814 02 *Reimu]
+[text 00001898 *Reimu]
 ん…？
-[2A 0x000019A8 02 *Reimu]
+[text 00001A2C *Reimu]
 これってもしかして
 紅い霧…？
-[2A 0x00001B3C 02 *Reimu]
+[text 00001BC0 *Reimu]
 となると、あいつの仕業か
-[2A 0x00001CD0 02 *Reimu]
+[text 00001D54 *Reimu]
 神社に来ないと思ったら
 何かたくらんでるわけね
-[2A 0x00001E64 02 *Reimu]
+[text 00001EE8 *Reimu]
 仕方ない…
-[2A 0x00001FF8 02 *Reimu]
+[text 0000207C *Reimu]
 行ってみるか、紅魔館へ！
-[28 0x0000265C 00 Reimu *Cirno]
+[text 00002754 Reimu *Cirno]
 かっかっかっか
-[2A 0x00002864 00 *Reimu Cirno]
+[text 00002948 *Reimu Cirno]
 でてきたよ
-[2A 0x00002A58 00 Reimu *Cirno]
+[text 00002B3C Reimu *Cirno]
 …えへへ
 出てきちゃった
-[2A 0x00002C4C 00 *Reimu Cirno]
+[text 00002D30 *Reimu Cirno]
 はいはい
-[2A 0x00002E40 00 Reimu *Cirno]
+[text 00002F24 Reimu *Cirno]
 はあ…
-[2A 0x00003034 00 *Reimu Cirno]
+[text 00003118 *Reimu Cirno]
 何のため息よ
-[2A 0x00003228 00 Reimu *Cirno]
+[text 0000330C Reimu *Cirno]
 空気を読めない人は
 これだから…
-[2A 0x0000341C 00 *Reimu Cirno]
+[text 00003500 *Reimu Cirno]
 邪魔みたいだから
 行くね
-[2A 0x00003610 00 Reimu *Cirno]
+[text 000036F4 Reimu *Cirno]
 ちょ、ちょっと！
-[2A 0x00003804 00 Reimu *Cirno]
+[text 000038E8 Reimu *Cirno]
 これから言う台詞を
 ちゃんと聞けー！
-[2A 0x000039F8 00 *Reimu Cirno]
+[text 00003ADC *Reimu Cirno]
 いいけど
-[2A 0x00003BEC 00 Reimu *Cirno]
+[text 00003CD0 Reimu *Cirno]
 よーし！
-[2A 0x00003DE0 00 Reimu *Cirno]
+[text 00003EC4 Reimu *Cirno]
 うふふ
-[2A 0x00003FD4 00 Reimu *Cirno]
+[text 000040B8 Reimu *Cirno]
 えへへ
-[2A 0x000041C8 00 Reimu *Cirno]
+[text 000042AC Reimu *Cirno]
 あはは
-[2A 0x000043BC 00 Reimu *Cirno]
+[text 000044A0 Reimu *Cirno]
 道にぃ……迷うはぁっ…！！
-[2A 0x000045B0 00 *Reimu Cirno]
+[text 00004694 *Reimu Cirno]
 迷ってなんかいないけど？
 いつも来てるじゃない
-[2A 0x000047A4 00 Reimu *Cirno]
+[text 00004888 Reimu *Cirno]
 え！　あ！　お！
-[2A 0x00004998 00 Reimu *Cirno]
+[text 00004A7C Reimu *Cirno]
 そっかぁ！
-[2A 0x00004B8C 00 Reimu *Cirno]
+[text 00004C70 Reimu *Cirno]
 もうっ、かっこいい台詞だったのに
 邪魔するなんてひどいやつだ！
-[2A 0x00004D80 00 *Reimu Cirno]
+[text 00004E64 *Reimu Cirno]
 わかった。
 じゃあ、もう一度言ってみたら？
-[2A 0x00004F74 00 Reimu *Cirno]
+[text 00005058 Reimu *Cirno]
 う…そんな急に言われても
 どうしよう…
-[2A 0x00005168 00 Reimu *Cirno]
+[text 0000524C Reimu *Cirno]
 ええと、ううんと、ああんと…
-[2A 0x0000535C 00 Reimu *Cirno]
+[text 00005440 Reimu *Cirno]
 よーしっ、これっ！
-[2A 0x00005550 00 Reimu *Cirno]
+[text 00005634 Reimu *Cirno]
 飛んでぇー火にいるぅー
 夏の虫っ！
-[2A 0x00005744 00 *Reimu Cirno]
+[text 00005828 *Reimu Cirno]
 春だし
-[2A 0x00005938 00 Reimu *Cirno]
+[text 00005A1C Reimu *Cirno]
 あえ？
-[2A 0x00005B2C 00 *Reimu Cirno]
+[text 00005C10 *Reimu Cirno]
 それに、飛んでる虫っぽいのは
 そっちだと思うけど？
-[2A 0x00005D20 00 Reimu *Cirno]
+[text 00005E04 Reimu *Cirno]
 ぶーん、って？
-[2A 0x00005F14 00 *Reimu Cirno]
+[text 00005FF8 *Reimu Cirno]
 そそ
-[2A 0x00006108 00 Reimu *Cirno]
+[text 000061EC Reimu *Cirno]
 って、あたいは
 虫じゃないっ
-[2A 0x000062FC 00 *Reimu Cirno]
+[text 000063E0 *Reimu Cirno]
 虫程度の
 行動原理しか持ってないのに？
-[2A 0x000064F0 00 Reimu *Cirno]
+[text 000065D4 Reimu *Cirno]
 馬鹿にしやがってー
-[2A 0x000066E4 00 Reimu *Cirno]
+[text 000067C8 Reimu *Cirno]
 あれ…？
-[2A 0x000068D8 00 Reimu *Cirno]
+[text 000069BC Reimu *Cirno]
 前にもこんな感じで
 怒った気がするけどっ！？
-[2A 0x00006ACC 00 Reimu *Cirno]
+[text 00006BB0 Reimu *Cirno]
 まあいいや
-[2A 0x00006CC0 00 Reimu *Cirno]
+[text 00006DA4 Reimu *Cirno]
 あんたなんて
 絶対零度で処置して保存してやるっ！
-[2A 0x00006EB4 00 *Reimu Cirno]
+[text 00006F98 *Reimu Cirno]
 どうして保存？
-[2A 0x000070A8 00 Reimu *Cirno]
+[text 0000718C Reimu *Cirno]
 知らないっ！
-[2A 0x0000729C 00 *Reimu Cirno]
+[text 00007380 *Reimu Cirno]
 知らないで言うんだ
-[2A 0x00007490 00 Reimu *Cirno]
+[text 00007574 Reimu *Cirno]
 いざ、勝負勝負ー！
-[2A 0x00007684 00 *Reimu Cirno]
+[text 00007768 *Reimu Cirno]
 戦いたがりなんだから…
-[2A 0x00007878 00 *Reimu Cirno]
+[text 0000795C *Reimu Cirno]
 …いいわ
-[2A 0x00007A6C 00 *Reimu Cirno]
+[text 00007B50 *Reimu Cirno]
 私もキライじゃないし
-[28 0x00008130 00 Reimu *Cirno]
+[text 00008228 Reimu *Cirno]
 むむむむむぅ…
 負けちゃった…
-[2A 0x00008338 00 Reimu *Cirno]
+[text 0000841C Reimu *Cirno]
 これからどーするのさっ
 ラスボスを倒しちゃったよっ！
-[2A 0x0000852C 00 *Reimu Cirno]
+[text 00008610 *Reimu Cirno]
 いや。
 チルノって最初だし
-[2A 0x00008720 00 Reimu *Cirno]
+[text 00008804 Reimu *Cirno]
 …があああああああん
-[2A 0x00008914 00 *Reimu Cirno]
+[text 000089F8 *Reimu Cirno]
 心の底から意外って顔したわ
 このヨーセイ
-[2A 0x00008B08 00 Reimu *Cirno]
+[text 00008BEC Reimu *Cirno]
 えへへへへ
-[2A 0x00008CFC 00 *Reimu Cirno]
+[text 00008DE0 *Reimu Cirno]
 ほめてないけど
-[2A 0x00008EF0 00 Reimu *Cirno]
+[text 00008FD4 Reimu *Cirno]
 らんらんららんらん♪
-[2A 0x000090E4 00 *Reimu Cirno]
+[text 000091C8 *Reimu Cirno]
 楽しいみたいね
-[2A 0x000092D8 00 Reimu *Cirno]
+[text 000093BC Reimu *Cirno]
 まあねっ
-[2A 0x000094CC 00 *Reimu Cirno]
+[text 000095B0 *Reimu Cirno]
 元気でよろしい。
 よーしよしよしよしよし
-[2A 0x000096C0 00 Reimu *Cirno]
+[text 000097A4 Reimu *Cirno]
 えへへへへ
-[2A 0x000098B4 00 Reimu *Cirno]
+[text 00009998 Reimu *Cirno]
 ぐるぐる。
 ぐるるるるるるー
-[2A 0x00009AA8 00 *Reimu Cirno]
+[text 00009B8C *Reimu Cirno]
 なつかれたか…
-[2A 0x00009C9C 00 Reimu *Cirno]
+[text 00009D80 Reimu *Cirno]
 なっ、なついてなんか
 いないよっ！
-[2A 0x00009E90 00 Reimu *Cirno]
+[text 00009F74 Reimu *Cirno]
 ちょ、ちょっと
-[2A 0x0000A084 00 Reimu *Cirno]
+[text 0000A168 Reimu *Cirno]
 なんだか
 なごんだだけだいっ！
-[2A 0x0000A278 00 *Reimu Cirno]
+[text 0000A35C *Reimu Cirno]
 どちらでもいいけど
-[2A 0x0000A46C 00 Reimu *Cirno]
+[text 0000A550 Reimu *Cirno]
 そいえばさ、どこ行くの？
-[2A 0x0000A660 00 Reimu *Cirno]
+[text 0000A744 Reimu *Cirno]
 ここらへんすんごい霧じゃん！
-[2A 0x0000A854 00 Reimu *Cirno]
+[text 0000A938 Reimu *Cirno]
 もしかして…
 何かあった！？
-[2A 0x0000AA48 00 *Reimu Cirno]
+[text 0000AB2C *Reimu Cirno]
 気づくの遅すぎ
-[2A 0x0000AC3C 00 *Reimu Cirno]
+[text 0000AD20 *Reimu Cirno]
 そ、なにかあるに
 決まっているから
-[2A 0x0000AE30 00 *Reimu Cirno]
+[text 0000AF14 *Reimu Cirno]
 …会いに行ってくるの
-[2A 0x0000B024 00 *Reimu Cirno]
+[text 0000B108 *Reimu Cirno]
 紅魔館のあいつにね
-[2A 0x0000B218 00 Reimu *Cirno]
+[text 0000B2FC Reimu *Cirno]
 そっかぁ。
 気をつけるんだぞ
-[2A 0x0000B40C 00 *Reimu Cirno]
+[text 0000B4F0 *Reimu Cirno]
 またね
-[2A 0x0000B6CC 02 *Cirno]
+[text 0000B750 *Cirno]
 ぶーん♪
-[2A 0x0000B860 02 *Cirno]
+[text 0000B8E4 *Cirno]
 ぶーん…
-[2A 0x0000B9F4 02 *Cirno]
+[text 0000BA78 *Cirno]
 ぶん…ぶん…ぶん！？
-[2A 0x0000BB88 02 *Cirno]
+[text 0000BC0C *Cirno]
 なんで「ぶーん」て
 言っちゃうんだろ…
-[2A 0x0000BD1C 02 *Cirno]
+[text 0000BDA0 *Cirno]
 あたいは
 虫じゃないのにっ！
-[28 0x0000C2FC 00 Reimu *Cirno]
+[text 0000C3F4 Reimu *Cirno]
 何すんの！？
-[2A 0x0000C504 00 Reimu *Cirno]
+[text 0000C5E8 Reimu *Cirno]
 不意打ちなんて
 主人公にあるまじき行為だよ！？
-[2A 0x0000C6F8 00 *Reimu Cirno]
+[text 0000C7DC *Reimu Cirno]
 だって、隙だらけだったから♪
-[2A 0x0000C8EC 00 Reimu *Cirno]
+[text 0000C9D0 Reimu *Cirno]
 がーん！
-[2A 0x0000CAE0 00 Reimu *Cirno]
+[text 0000CBC4 Reimu *Cirno]
 なんてひどいやつなんだ…
-[2A 0x0000CCD4 00 *Reimu Cirno]
+[text 0000CDB8 *Reimu Cirno]
 まあ、気にしない気にしない♪
-[2A 0x0000CEC8 00 *Reimu Cirno]
+[text 0000CFAC *Reimu Cirno]
 さあ、続きをはじめましょ。
-[2A 0x0000D0BC 00 Reimu *Cirno]
+[text 0000D1A0 Reimu *Cirno]
 この恨み絶対晴らすんだから！
 覚悟しろー！
-[28 0x0000D780 02 *Reimu]
+[text 0000D820 *Reimu]
 ん…ここって？
-[2A 0x0000D930 02 *Reimu]
+[text 0000D9B4 *Reimu]
 紅魔館に入ったはずなのに
 似ているけど違う…
-[2A 0x0000DAC4 02 *Reimu]
+[text 0000DB48 *Reimu]
 そっか、たぶんだけど
 時空が歪められてる
-[2A 0x0000DC58 02 *Reimu]
+[text 0000DCDC *Reimu]
 はあ…
-[2A 0x0000DDEC 02 *Reimu]
+[text 0000DE70 *Reimu]
 この妙な場所も
 あいつのせいか
-[2A 0x0000DF80 02 *Reimu]
+[text 0000E004 *Reimu]
 人様に迷惑をかけちゃうのは
 仕方ないにしても
-[2A 0x0000E114 02 *Reimu]
+[text 0000E198 *Reimu]
 私を巻き込むなんて！
-[2A 0x0000E2A8 02 *Reimu]
+[text 0000E32C *Reimu]
 うーん…
 これはお仕置きが必要ね
-[28 0x0000E90C 00 Reimu *Sanae]
+[text 0000EA04 Reimu *Sanae]
 あらあらあらあら。
 奇遇ね
-[2A 0x0000EB14 00 *Reimu Sanae]
+[text 0000EBF8 *Reimu Sanae]
 それって
 こちらの台詞じゃない？
-[2A 0x0000ED08 00 *Reimu Sanae]
+[text 0000EDEC *Reimu Sanae]
 どうしてここにいるわけ？
-[2A 0x0000EEFC 00 Reimu *Sanae]
+[text 0000EFE0 Reimu *Sanae]
 わかっているわ
 きっとあなたのせいなのよね…
-[2A 0x0000F0F0 00 *Reimu Sanae]
+[text 0000F1D4 *Reimu Sanae]
 何が？
-[2A 0x0000F2E4 00 Reimu *Sanae]
+[text 0000F3C8 Reimu *Sanae]
 あらあら。
 しらばっくれるの？
-[2A 0x0000F4D8 00 *Reimu Sanae]
+[text 0000F5BC *Reimu Sanae]
 なんなのよ
-[2A 0x0000F6CC 00 Reimu *Sanae]
+[text 0000F7B0 Reimu *Sanae]
 私、紅魔館に呼ばれたの
-[2A 0x0000F8C0 00 *Reimu Sanae]
+[text 0000F9A4 *Reimu Sanae]
 呼ばれ…？
-[2A 0x0000FAB4 00 Reimu *Sanae]
+[text 0000FB98 Reimu *Sanae]
 ええ。
 なのにこんな場所へ！
-[2A 0x0000FCA8 00 Reimu *Sanae]
+[text 0000FD8C Reimu *Sanae]
 どうしてこの私が！？
 白状なさい！
-[2A 0x0000FE9C 00 *Reimu Sanae]
+[text 0000FF80 *Reimu Sanae]
 知らないから
-[2A 0x00010090 00 Reimu *Sanae]
+[text 00010174 Reimu *Sanae]
 そう…ですか…
 知らないと…
-[2A 0x00010284 00 *Reimu Sanae]
+[text 00010368 *Reimu Sanae]
 早苗、この場所の正体わかる？
-[2A 0x00010478 00 Reimu *Sanae]
+[text 0001055C Reimu *Sanae]
 いいえ…残念ですが
-[2A 0x0001066C 00 Reimu *Sanae]
+[text 00010750 Reimu *Sanae]
 気づいたら、こちらで
 ふわふわ可憐に浮いていたの
-[2A 0x00010860 00 Reimu *Sanae]
+[text 00010944 Reimu *Sanae]
 きっと良からぬ
 呪法のたぐいだわっ！
-[2A 0x00010A54 00 *Reimu Sanae]
+[text 00010B38 *Reimu Sanae]
 そんなに怒らなくても
-[2A 0x00010C48 00 *Reimu Sanae]
+[text 00010D2C *Reimu Sanae]
 うーんと…じゃね
-[2A 0x00010E3C 00 Reimu *Sanae]
+[text 00010F20 Reimu *Sanae]
 待ちなさい博麗の巫女。
 質問があります
-[2A 0x00011030 00 Reimu *Sanae]
+[text 00011114 Reimu *Sanae]
 この人であり神でもある私が
 どうしてこのような異界に
-[2A 0x00011224 00 Reimu *Sanae]
+[text 00011308 Reimu *Sanae]
 囚われているのか
-[2A 0x00011418 00 Reimu *Sanae]
+[text 000114FC Reimu *Sanae]
 あなたがご存知じゃないとは
 １ミリも思えないの
-[2A 0x0001160C 00 *Reimu Sanae]
+[text 000116F0 *Reimu Sanae]
 疑ってるの？
-[2A 0x00011800 00 Reimu *Sanae]
+[text 000118E4 Reimu *Sanae]
 いいえ…
-[2A 0x000119F4 00 Reimu *Sanae]
+[text 00011AD8 Reimu *Sanae]
 これは確信です！
-[28 0x000120B8 00 Reimu *Sanae]
+[text 000121B0 Reimu *Sanae]
 むうぅ…
 この私が負けるなんてっ！？
-[2A 0x000122C0 00 Reimu *Sanae]
+[text 000123A4 Reimu *Sanae]
 ふう…仕方がないですね
-[2A 0x000124B4 00 Reimu *Sanae]
+[text 00012598 Reimu *Sanae]
 あなたが相手だものね
-[2A 0x000126A8 00 *Reimu Sanae]
+[text 0001278C *Reimu Sanae]
 で、ここには
 何をしにきたわけ
-[2A 0x0001289C 00 Reimu *Sanae]
+[text 00012980 Reimu *Sanae]
 何か用があるそうで。
 でもまだ聞いてません
-[2A 0x00012A90 00 Reimu *Sanae]
+[text 00012B74 Reimu *Sanae]
 それに、呼ばれたのは
 私だけではないみたいよ
-[2A 0x00012C84 00 *Reimu Sanae]
+[text 00012D68 *Reimu Sanae]
 そっか。
 それにしてもさ
-[2A 0x00012E78 00 *Reimu Sanae]
+[text 00012F5C *Reimu Sanae]
 わけのわからない用なのに
 よくここまで来たわね
-[2A 0x0001306C 00 Reimu *Sanae]
+[text 00013150 Reimu *Sanae]
 うん？
-[2A 0x00013260 00 Reimu *Sanae]
+[text 00013344 Reimu *Sanae]
 それに今日は
 とってもいい天気でしたし
-[2A 0x00013454 00 Reimu *Sanae]
+[text 00013538 Reimu *Sanae]
 道中の和菓子屋さんで
 買ったお団子の
-[2A 0x00013648 00 Reimu *Sanae]
+[text 0001372C Reimu *Sanae]
 美味しかったこと
 美味しかったこと…♪
-[2A 0x0001383C 00 *Reimu Sanae]
+[text 00013920 *Reimu Sanae]
 満喫したのね
-[2A 0x00013A30 00 Reimu *Sanae]
+[text 00013B14 Reimu *Sanae]
 ええ、もちろん♪
 そうそう
-[2A 0x00013C24 00 Reimu *Sanae]
+[text 00013D08 Reimu *Sanae]
 大事なことをひとつ
 教えてあげましょう
-[2A 0x00013E18 00 *Reimu Sanae]
+[text 00013EFC *Reimu Sanae]
 大事な…こと？
-[2A 0x0001400C 00 Reimu *Sanae]
+[text 000140F0 Reimu *Sanae]
 私たち、どうやら
 出られないようです
-[2A 0x00014200 00 Reimu *Sanae]
+[text 000142E4 Reimu *Sanae]
 この「紅魔郷」という
 空間の外に！
-[2A 0x000143F4 00 *Reimu Sanae]
+[text 000144D8 *Reimu Sanae]
 なにそれ…
 「紅魔郷」…？
-[2A 0x000145E8 00 Reimu *Sanae]
+[text 000146CC Reimu *Sanae]
 後は任せました。
 博麗の巫女
-[2A 0x000147DC 00 *Reimu Sanae]
+[text 000148C0 *Reimu Sanae]
 勝手なこと言って。
 でもそうなるのよね
-[2A 0x000149D0 00 Reimu *Sanae]
+[text 00014AB4 Reimu *Sanae]
 ええ、そうなります
-[2A 0x00014BC4 00 Reimu *Sanae]
+[text 00014CA8 Reimu *Sanae]
 だって不穏な事態が
 似合うのって
-[2A 0x00014DB8 00 Reimu *Sanae]
+[text 00014E9C Reimu *Sanae]
 あなたの方ですしね。
 うふふふふ
-[2A 0x00014FAC 00 *Reimu Sanae]
+[text 00015090 *Reimu Sanae]
 じゃあね
-[2A 0x000151A0 00 Reimu *Sanae]
+[text 00015284 Reimu *Sanae]
 はい、ごきげんよう
-[2A 0x00015460 02 *Sanae]
+[text 000154E4 *Sanae]
 気をつけてくださいね…
 博麗の巫女
-[2A 0x000155F4 02 *Sanae]
+[text 00015678 *Sanae]
 「紅魔郷」の秘密は
 ひとつではありません
-[2A 0x00015788 02 *Sanae]
+[text 0001580C *Sanae]
 ここから出られないだけでは
 ないようだから
-[2A 0x0001591C 02 *Sanae]
+[text 000159A0 *Sanae]
 きゃっ♪
-[2A 0x00015AB0 02 *Sanae]
+[text 00015B34 *Sanae]
 このことに気づくだなんて
 さすが早苗様ねっ♪
-[28 0x00016090 02 *Reimu]
+[text 00016130 *Reimu]
 どうしたのかな
 なんだかほこりっぽい？
-[2A 0x00016240 02 *Reimu]
+[text 000162C4 *Reimu]
 不思議と古い本の匂いがしない
 場所だったのに
-[2A 0x000163D4 02 *Reimu]
+[text 00016458 *Reimu]
 メイドが忙しくて
 掃除にまで手がまわっていない？
-[2A 0x00016568 02 *Reimu]
+[text 000165EC *Reimu]
 だとしたら、紅い霧といい
 おかしな出来事の裏側に
-[2A 0x000166FC 02 *Reimu]
+[text 00016780 *Reimu]
 あいつとメイドがいると考えて
 きっと間違いないわね
-[2A 0x00016890 02 *Reimu]
+[text 00016914 *Reimu]
 ま、いいけど
-[2A 0x00016A24 02 *Reimu]
+[text 00016AA8 *Reimu]
 書架の主に会えたら
 何か知ってると思うから
-[28 0x00017088 00 Reimu *Patch]
+[text 00017180 Reimu *Patch]
 おはよう…
-[2A 0x00017290 00 *Reimu Patch]
+[text 00017374 *Reimu Patch]
 え、あ、おはよう
-[2A 0x00017484 00 Reimu *Patch]
+[text 00017568 Reimu *Patch]
 咲夜なの？
-[2A 0x00017678 00 *Reimu Patch]
+[text 0001775C *Reimu Patch]
 私は咲夜じゃないわ
-[2A 0x0001786C 00 Reimu *Patch]
+[text 00017950 Reimu *Patch]
 そうなの…
 最近掃除に来てくれないわね
-[2A 0x00017A60 00 Reimu *Patch]
+[text 00017B44 Reimu *Patch]
 あら、霊夢…
-[2A 0x00017C54 00 Reimu *Patch]
+[text 00017D38 Reimu *Patch]
 気をつけて。
 ここはほこりっぽいから
-[2A 0x00017E48 00 Reimu *Patch]
+[text 00017F2C Reimu *Patch]
 そう…
 まるであなたのように
-[2A 0x0001803C 00 *Reimu Patch]
+[text 00018120 *Reimu Patch]
 何よそれ
-[2A 0x00018230 00 Reimu *Patch]
+[text 00018314 Reimu *Patch]
 叩けば色々と
 でてくるでしょ？
-[2A 0x00018424 00 Reimu *Patch]
+[text 00018508 Reimu *Patch]
 その罪作りな肉体で…
 私の大切な友達を…
-[2A 0x00018618 00 *Reimu Patch]
+[text 000186FC *Reimu Patch]
 はあ？
-[2A 0x0001880C 00 Reimu *Patch]
+[text 000188F0 Reimu *Patch]
 自覚はないようね…
-[2A 0x00018A00 00 *Reimu Patch]
+[text 00018AE4 *Reimu Patch]
 あんたたちがおかしいのは
 いつものことだけど
-[2A 0x00018BF4 00 *Reimu Patch]
+[text 00018CD8 *Reimu Patch]
 いったいどうしちゃったの？
-[2A 0x00018DE8 00 *Reimu Patch]
+[text 00018ECC *Reimu Patch]
 咲夜が掃除をさぼってる
 なんてことはありえないし
-[2A 0x00018FDC 00 Reimu *Patch]
+[text 000190C0 Reimu *Patch]
 ここにある本の
 すべてを私は識っている…
-[2A 0x000191D0 00 Reimu *Patch]
+[text 000192B4 Reimu *Patch]
 常にそれは変らないわ。
 けれど不変は奇異なの
-[2A 0x000193C4 00 Reimu *Patch]
+[text 000194A8 Reimu *Patch]
 あまりに変らないことは
 それ自体が異様なの
-[2A 0x000195B8 00 *Reimu Patch]
+[text 0001969C *Reimu Patch]
 何か知っているみたいね
-[2A 0x000197AC 00 *Reimu Patch]
+[text 00019890 *Reimu Patch]
 あなたが知らないなんて
 ありえないから
-[2A 0x000199A0 00 Reimu *Patch]
+[text 00019A84 Reimu *Patch]
 その直感的な洞察と
 明確な結論と意思を結びつける手法
-[2A 0x00019B94 00 Reimu *Patch]
+[text 00019C78 Reimu *Patch]
 嫌いではないわ…
-[2A 0x00019D88 00 *Reimu Patch]
+[text 00019E6C *Reimu Patch]
 教えて。どういう意味？
 何が変らないわけ？
-[2A 0x00019F7C 00 Reimu *Patch]
+[text 0001A060 Reimu *Patch]
 今はわからない。
 ただ運命が告げているの
-[2A 0x0001A170 00 Reimu *Patch]
+[text 0001A254 Reimu *Patch]
 時がただ静かに
 滴り落ちるかのように…
-[2A 0x0001A364 00 Reimu *Patch]
+[text 0001A448 Reimu *Patch]
 私はあなたを
 消滅しないといけない
-[2A 0x0001A558 00 *Reimu Patch]
+[text 0001A63C *Reimu Patch]
 やる気なんだ
-[2A 0x0001A74C 00 Reimu *Patch]
+[text 0001A830 Reimu *Patch]
 最初からそのつもりでした。
 伝わっていると思っていましたが？
-[2A 0x0001A940 00 *Reimu Patch]
+[text 0001AA24 *Reimu Patch]
 もちろん
-[2A 0x0001AB34 00 *Reimu Patch]
+[text 0001AC18 *Reimu Patch]
 あの子たちより先に
 あなたをお仕置きしてあげるわ
-[28 0x0001B1F8 00 Reimu *Patch]
+[text 0001B2F0 Reimu *Patch]
 お仕置きされてしまった…
 その罪作りな肉体で…
-[2A 0x0001B400 00 *Reimu Patch]
+[text 0001B4E4 *Reimu Patch]
 どういう意味なわけ、それ。
 誤解を生んじゃうと思うけど
-[2A 0x0001B5F4 00 Reimu *Patch]
+[text 0001B6D8 Reimu *Patch]
 このところ、とっても
 肌が乾燥気味なの…
-[2A 0x0001B7E8 00 *Reimu Patch]
+[text 0001B8CC *Reimu Patch]
 質問には答えてないし
-[2A 0x0001B9DC 00 *Reimu Patch]
+[text 0001BAC0 *Reimu Patch]
 それに、
 別にしっとりすべすべに見えるけど
-[2A 0x0001BBD0 00 Reimu *Patch]
+[text 0001BCB4 Reimu *Patch]
 あ、ありがとう…
-[2A 0x0001BDC4 00 Reimu *Patch]
+[text 0001BEA8 Reimu *Patch]
 本は湿気を吸い取ってしまうから
 肌は常に乾燥気味
-[2A 0x0001BFB8 00 Reimu *Patch]
+[text 0001C09C Reimu *Patch]
 だからビタミンは
 きちんと摂るべきよ。
-[2A 0x0001C1AC 00 Reimu *Patch]
+[text 0001C290 Reimu *Patch]
 肌を守ってくれるから。
 これ、豆ね…
-[2A 0x0001C3A0 00 *Reimu Patch]
+[text 0001C484 *Reimu Patch]
 豆知識を披露してくるんだ…
-[2A 0x0001C594 00 Reimu *Patch]
+[text 0001C678 Reimu *Patch]
 …………
-[2A 0x0001C788 00 *Reimu Patch]
+[text 0001C86C *Reimu Patch]
 照れなくてもいいでしょ？
-[2A 0x0001C97C 00 *Reimu Patch]
+[text 0001CA60 *Reimu Patch]
 あっそうそう
-[2A 0x0001CB70 00 *Reimu Patch]
+[text 0001CC54 *Reimu Patch]
 もしかして：パチュリーなら
 知っているかもって思うんだけど
-[2A 0x0001CD64 00 Reimu *Patch]
+[text 0001CE48 Reimu *Patch]
 気のせいかしら、
 一瞬だけ言葉の区切りが
-[2A 0x0001CF58 00 Reimu *Patch]
+[text 0001D03C Reimu *Patch]
 「、」ではなくて
 「：」だった気がした…
-[2A 0x0001D14C 00 *Reimu Patch]
+[text 0001D230 *Reimu Patch]
 気のせいよ。
 もしかして：パチュリー？
-[2A 0x0001D340 00 *Reimu Patch]
+[text 0001D424 *Reimu Patch]
 何か知らない？
 また紅い霧が立ち込めてて
-[2A 0x0001D534 00 Reimu *Patch]
+[text 0001D618 Reimu *Patch]
 そのことだけど、識らないわ
-[2A 0x0001D728 00 *Reimu Patch]
+[text 0001D80C *Reimu Patch]
 どうして知らないってわかるの？
-[2A 0x0001D91C 00 Reimu *Patch]
+[text 0001DA00 Reimu *Patch]
 すでに起きたことだから…
 そうとしか言えないの
-[2A 0x0001DB10 00 Reimu *Patch]
+[text 0001DBF4 Reimu *Patch]
 これからの運命は過去にあり
 その過去が運命を司るとしたら？
-[2A 0x0001DD04 00 *Reimu Patch]
+[text 0001DDE8 *Reimu Patch]
 よくわからないな。
 わかったら教えてくれる？
-[2A 0x0001DEF8 00 Reimu *Patch]
+[text 0001DFDC Reimu *Patch]
 そうね、その時には
 また会いましょう
-[2A 0x0001E0EC 00 Reimu *Patch]
+[text 0001E1D0 Reimu *Patch]
 いえ…
 きっと会うのでしょうね
-[2A 0x0001E2E0 00 *Reimu Patch]
+[text 0001E3C4 *Reimu Patch]
 そうなんだ…そうなのかも。
 じゃあね、そろそろ行くわ
-[2A 0x0001E4D4 00 Reimu *Patch]
+[text 0001E5B8 Reimu *Patch]
 ええ…気をつけて
-[2A 0x0001E794 02 *Patch]
+[text 0001E818 *Patch]
 ふう…
-[2A 0x0001E928 02 *Patch]
+[text 0001E9AC *Patch]
 私が霊夢に
 別れを言ったのは…
-[2A 0x0001EABC 02 *Patch]
+[text 0001EB40 *Patch]
 お仕置きをされたのは………
-[2A 0x0001EC50 02 *Patch]
+[text 0001ECD4 *Patch]
 いったい何回目だったかしら…
-[28 0x0001F230 02 *Reimu]
+[text 0001F2D0 *Reimu]
 あれ？
 このあたりの様子って…
-[2A 0x0001F3E0 02 *Reimu]
+[text 0001F464 *Reimu]
 どうしてかな。
 胸騒ぎがする…
-[2A 0x0001F574 02 *Reimu]
+[text 0001F5F8 *Reimu]
 ということは
 この先がきっと正解ね！
-[2A 0x0001F708 02 *Reimu]
+[text 0001F78C *Reimu]
 何か変なのが
 出てくるに違いないもの
-[28 0x0001FD6C 00 Reimu *Nitori]
+[text 0001FE64 Reimu *Nitori]
 あっ！
 盟友である人間がここに！？
-[2A 0x0001FF74 00 *Reimu Nitori]
+[text 00020058 *Reimu Nitori]
 ……
-[2A 0x00020168 00 Reimu *Nitori]
+[text 0002024C Reimu *Nitori]
 どうして黙っているのかなー？
-[2A 0x0002035C 00 *Reimu Nitori]
+[text 00020440 *Reimu Nitori]
 予想外のが出てきたから。
 少しね、驚いていたの
-[2A 0x00020550 00 *Reimu Nitori]
+[text 00020634 *Reimu Nitori]
 やっぱり変なのが出てきたなと…
-[2A 0x00020744 00 Reimu *Nitori]
+[text 00020828 Reimu *Nitori]
 聞こえてるよー！
-[2A 0x00020938 00 Reimu *Nitori]
+[text 00020A1C Reimu *Nitori]
 すぐそばにいるよ！
-[2A 0x00020B2C 00 Reimu *Nitori]
+[text 00020C10 Reimu *Nitori]
 言うなら聞こえないくらい
 離れてから言わないと！
-[2A 0x00020D20 00 *Reimu Nitori]
+[text 00020E04 *Reimu Nitori]
 独り言だから
 気にしないで
-[2A 0x00020F14 00 *Reimu Nitori]
+[text 00020FF8 *Reimu Nitori]
 悪意はないから
-[2A 0x00021108 00 Reimu *Nitori]
+[text 000211EC Reimu *Nitori]
 そっか
 悪意はないのかー
-[2A 0x000212FC 00 Reimu *Nitori]
+[text 000213E0 Reimu *Nitori]
 って、純粋に
 変って思ってるってこと！？
-[2A 0x000214F0 00 *Reimu Nitori]
+[text 000215D4 *Reimu Nitori]
 純粋な論理の帰結として
 そうなるみたいね
-[2A 0x000216E4 00 *Reimu Nitori]
+[text 000217C8 *Reimu Nitori]
 否定はできない！
-[2A 0x000218D8 00 Reimu *Nitori]
+[text 000219BC Reimu *Nitori]
 自信たっぷりで認めたなっ！
-[2A 0x00021ACC 00 Reimu *Nitori]
+[text 00021BB0 Reimu *Nitori]
 もういい！
 謝ってくれないんだったら
-[2A 0x00021CC0 00 Reimu *Nitori]
+[text 00021DA4 Reimu *Nitori]
 私の新作兵器の
 実験台にしてやるっ！
-[28 0x00022384 00 *Reimu Nitori]
+[text 0002247C *Reimu Nitori]
 悪いわね…にとり
-[2A 0x0002258C 00 Reimu *Nitori]
+[text 00022670 Reimu *Nitori]
 ぎったんぎったんにした後で
 謝ったよこの子！
-[2A 0x00022780 00 Reimu *Nitori]
+[text 00022864 Reimu *Nitori]
 妖怪とかよりも
 人間の方がずっと怖いよぅ！
-[2A 0x00022974 00 *Reimu Nitori]
+[text 00022A58 *Reimu Nitori]
 どうしてここにいるの？
-[2A 0x00022B68 00 Reimu *Nitori]
+[text 00022C4C Reimu *Nitori]
 え、あ、うん。
 招待されたんだけど
-[2A 0x00022D5C 00 Reimu *Nitori]
+[text 00022E40 Reimu *Nitori]
 出れなくなっちゃたんだよね
 この「紅魔郷」から
-[2A 0x00022F50 00 Reimu *Nitori]
+[text 00023034 Reimu *Nitori]
 何かわかる？
 博麗の巫女
-[2A 0x00023144 00 *Reimu Nitori]
+[text 00023228 *Reimu Nitori]
 「紅魔郷」ね…
 封鎖時空でも形成したみたいね
-[2A 0x00023338 00 *Reimu Nitori]
+[text 0002341C *Reimu Nitori]
 空間と時間を歪ませるなんて
 大それたことをやるとしたら
-[2A 0x0002352C 00 *Reimu Nitori]
+[text 00023610 *Reimu Nitori]
 やっぱりレミリアの仕業か…。
 だったら咲夜も一緒ね
-[2A 0x00023720 00 Reimu *Nitori]
+[text 00023804 Reimu *Nitori]
 で、さ
-[2A 0x00023914 00 Reimu *Nitori]
+[text 000239F8 Reimu *Nitori]
 でられそうかな？
 盟友である人間
-[2A 0x00023B08 00 *Reimu Nitori]
+[text 00023BEC *Reimu Nitori]
 まだ調べ中。
 もうちょっと先まで行ってみるわ
-[2A 0x00023CFC 00 Reimu *Nitori]
+[text 00023DE0 Reimu *Nitori]
 そうなのか…
-[2A 0x00023EF0 00 Reimu *Nitori]
+[text 00023FD4 Reimu *Nitori]
 じゃあね、人間。
 気をつけていくんだよー
-[2A 0x000240E4 00 *Reimu Nitori]
+[text 000241C8 *Reimu Nitori]
 ええ、じゃあね
-[2A 0x000243A4 00 Reimu *Nitori]
+[text 00024488 Reimu *Nitori]
 人間…気づいているのかな？
-[2A 0x00024598 00 Reimu *Nitori]
+[text 0002467C Reimu *Nitori]
 この世界って
 ぐるぐるまわってるんだ
-[2A 0x0002478C 00 Reimu *Nitori]
+[text 00024870 Reimu *Nitori]
 よくできたからくりの
 歯車みたいに
-[2A 0x00024980 00 Reimu *Nitori]
+[text 00024A64 Reimu *Nitori]
 無理に止めると
 からくりって壊れちゃうぞ…
-[2A 0x00024B74 00 Reimu *Nitori]
+[text 00024C58 Reimu *Nitori]
 でも、盟友なら大丈夫だよね！
 きゅうり食べて回復だっ！
-[2A 0x00024D68 00 Reimu *Nitori]
+[text 00024E4C Reimu *Nitori]
 おいしっ！
-[28 0x000253A8 02 *Reimu]
+[text 00025448 *Reimu]
 さてさて
 次に出てくるのって誰かしらね
-[2A 0x00025558 02 *Reimu]
+[text 000255DC *Reimu]
 この生真面目な雰囲気からすると…
-[2A 0x000256EC 02 *Reimu]
+[text 00025770 *Reimu]
 やっぱり
 あのメイドの登場よね
-[2A 0x00025880 02 *Reimu]
+[text 00025904 *Reimu]
 何の目的があって
 今回のことを仕組んだのか…
-[2A 0x00025A14 02 *Reimu]
+[text 00025A98 *Reimu]
 会って確かめてあげようじゃない！
-[28 0x00026078 00 Reimu *Sakuya]
+[text 00026170 Reimu *Sakuya]
 ふうん…来たんだ
-[2A 0x00026280 00 *Reimu Sakuya]
+[text 00026364 *Reimu Sakuya]
 いきなりなんなの
-[2A 0x00026474 00 Reimu *Sakuya]
+[text 00026558 Reimu *Sakuya]
 「いらっしゃいませ」
-[2A 0x00026668 00 Reimu *Sakuya]
+[text 0002674C Reimu *Sakuya]
 とでも言って欲しかったのかしら？
-[2A 0x0002685C 00 *Reimu Sakuya]
+[text 00026940 *Reimu Sakuya]
 別にいいけど
-[2A 0x00026A50 00 Reimu *Sakuya]
+[text 00026B34 Reimu *Sakuya]
 いらっしゃいませ…
-[2A 0x00026C44 00 Reimu *Sakuya]
+[text 00026D28 Reimu *Sakuya]
 お嬢様♪
-[2A 0x00026E38 00 *Reimu Sakuya]
+[text 00026F1C *Reimu Sakuya]
 うえ…
 やめてよね
-[2A 0x0002702C 00 Reimu *Sakuya]
+[text 00027110 Reimu *Sakuya]
 うふふ
-[2A 0x00027220 00 *Reimu Sakuya]
+[text 00027304 *Reimu Sakuya]
 私をからかいたいのが理由で
-[2A 0x00027414 00 *Reimu Sakuya]
+[text 000274F8 *Reimu Sakuya]
 こんなこと
 してるわけじゃないわよね？
-[2A 0x00027608 00 Reimu *Sakuya]
+[text 000276EC Reimu *Sakuya]
 ええ。
 当たり前でしょう？
-[2A 0x000277FC 00 *Reimu Sakuya]
+[text 000278E0 *Reimu Sakuya]
 だったら目的は
 何なの？
-[2A 0x000279F0 00 Reimu *Sakuya]
+[text 00027AD4 Reimu *Sakuya]
 目的…？
-[2A 0x00027BE4 00 Reimu *Sakuya]
+[text 00027CC8 Reimu *Sakuya]
 ふふ、それは
 すでに果たされたわ
-[2A 0x00027DD8 00 *Reimu Sakuya]
+[text 00027EBC *Reimu Sakuya]
 ！？
-[2A 0x00027FCC 00 Reimu *Sakuya]
+[text 000280B0 Reimu *Sakuya]
 あなたがここにいること
 それが私の目的…
-[2A 0x000281C0 00 *Reimu Sakuya]
+[text 000282A4 *Reimu Sakuya]
 だったら…
 もう帰った方がいいの？
-[2A 0x000283B4 00 Reimu *Sakuya]
+[text 00028498 Reimu *Sakuya]
 いいえ。
 そんなわけないじゃない
-[2A 0x000285A8 00 Reimu *Sakuya]
+[text 0002868C Reimu *Sakuya]
 謎はまだ残っているでしょう？
 再び繰り返されたあの紅い霧…
-[2A 0x0002879C 00 *Reimu Sakuya]
+[text 00028880 *Reimu Sakuya]
 誰が、何のために…ね？
-[2A 0x00028990 00 Reimu *Sakuya]
+[text 00028A74 Reimu *Sakuya]
 あなたの考えは？
-[2A 0x00028B84 00 *Reimu Sakuya]
+[text 00028C68 *Reimu Sakuya]
 決まってるじゃない
-[2A 0x00028D78 00 *Reimu Sakuya]
+[text 00028E5C *Reimu Sakuya]
 あなたが大好きな
 この館のご主人様よ
-[2A 0x00028F6C 00 Reimu *Sakuya]
+[text 00029050 Reimu *Sakuya]
 うふふ、それがわかっていて
 ここまで来たのよね
-[2A 0x00029160 00 Reimu *Sakuya]
+[text 00029244 Reimu *Sakuya]
 さて…やりましょうか
-[2A 0x00029354 00 *Reimu Sakuya]
+[text 00029438 *Reimu Sakuya]
 お掃除を！？
-[2A 0x00029548 00 *Reimu Sakuya]
+[text 0002962C *Reimu Sakuya]
 咲夜ったら
 お掃除をさぼってるでしょ
-[2A 0x0002973C 00 *Reimu Sakuya]
+[text 00029820 *Reimu Sakuya]
 パチュリーが困ってたわ
-[2A 0x00029930 00 Reimu *Sakuya]
+[text 00029A14 Reimu *Sakuya]
 それはあなたのせい。
 あなたの罪
-[2A 0x00029B24 00 *Reimu Sakuya]
+[text 00029C08 *Reimu Sakuya]
 私が何かした？
-[2A 0x00029D18 00 Reimu *Sakuya]
+[text 00029DFC Reimu *Sakuya]
 過去も未来も今も
-[2A 0x00029F0C 00 Reimu *Sakuya]
+[text 00029FF0 Reimu *Sakuya]
 あなたは犯しているの罪を。
 何度も何度も…
-[2A 0x0002A100 00 *Reimu Sakuya]
+[text 0002A1E4 *Reimu Sakuya]
 自覚はないんだけど
 そうみたいね
-[2A 0x0002A2F4 00 *Reimu Sakuya]
+[text 0002A3D8 *Reimu Sakuya]
 何の罪なの？
-[2A 0x0002A4E8 00 Reimu *Sakuya]
+[text 0002A5CC Reimu *Sakuya]
 言え…ない…
-[2A 0x0002A6DC 00 *Reimu Sakuya]
+[text 0002A7C0 *Reimu Sakuya]
 わ…。
 唐突に照れた？
-[2A 0x0002A8D0 00 *Reimu Sakuya]
+[text 0002A9B4 *Reimu Sakuya]
 ってことは、
 レミリア絡みね
-[2A 0x0002AAC4 00 Reimu *Sakuya]
+[text 0002ABA8 Reimu *Sakuya]
 デレてないから
-[2A 0x0002ACB8 00 *Reimu Sakuya]
+[text 0002AD9C *Reimu Sakuya]
 照れっていったけど？
-[2A 0x0002AEAC 00 Reimu *Sakuya]
+[text 0002AF90 Reimu *Sakuya]
 覚悟なさい！
-[2A 0x0002B0A0 00 *Reimu Sakuya]
+[text 0002B184 *Reimu Sakuya]
 怒ったのなら図星ね
-[2A 0x0002B294 00 Reimu *Sakuya]
+[text 0002B378 Reimu *Sakuya]
 ！？
-[2A 0x0002B488 00 Reimu *Sakuya]
+[text 0002B56C Reimu *Sakuya]
 いいでしょう。
 チリにして片づけてあげます！
-[2A 0x0002B67C 00 *Reimu Sakuya]
+[text 0002B760 *Reimu Sakuya]
 メイドの掃除自作自演…
-[2A 0x0002B870 00 *Reimu Sakuya]
+[text 0002B954 *Reimu Sakuya]
 いいわ。
 相手してあげる！
-[28 0x0002BF34 00 Reimu *Sakuya]
+[text 0002C02C Reimu *Sakuya]
 やっぱり敵わない、か…
-[2A 0x0002C13C 00 *Reimu Sakuya]
+[text 0002C220 *Reimu Sakuya]
 どうしたの？
 急にしおらしくなっちゃって
-[2A 0x0002C330 00 Reimu *Sakuya]
+[text 0002C414 Reimu *Sakuya]
 猫みたいだって思ったかしら？
-[2A 0x0002C524 00 *Reimu Sakuya]
+[text 0002C608 *Reimu Sakuya]
 ううん？
-[2A 0x0002C718 00 *Reimu Sakuya]
+[text 0002C7FC *Reimu Sakuya]
 あっ、ちょっと
 思ったかもしれない
-[2A 0x0002C90C 00 Reimu *Sakuya]
+[text 0002C9F0 Reimu *Sakuya]
 にゃん、にゃん、にゃん。
 ごろにゃーん♪
-[2A 0x0002CB00 00 *Reimu Sakuya]
+[text 0002CBE4 *Reimu Sakuya]
 え
-[2A 0x0002CCF4 00 Reimu *Sakuya]
+[text 0002CDD8 Reimu *Sakuya]
 絶句された
-[2A 0x0002CEE8 00 Reimu *Sakuya]
+[text 0002CFCC Reimu *Sakuya]
 覚えていないか…
 それもそうよね
-[2A 0x0002D0DC 00 *Reimu Sakuya]
+[text 0002D1C0 *Reimu Sakuya]
 いったいどうしたの？
-[2A 0x0002D2D0 00 Reimu *Sakuya]
+[text 0002D3B4 Reimu *Sakuya]
 私のことなんて
 どうでもいいんじゃないかしら？
-[2A 0x0002D4C4 00 Reimu *Sakuya]
+[text 0002D5A8 Reimu *Sakuya]
 あなたも気づいているんでしょう？
 ここがおかしいって
-[2A 0x0002D6B8 00 *Reimu Sakuya]
+[text 0002D79C *Reimu Sakuya]
 もともと
 おかしなところだけどね
-[2A 0x0002D8AC 00 *Reimu Sakuya]
+[text 0002D990 *Reimu Sakuya]
 何か知ってるのよね？
-[2A 0x0002DAA0 00 Reimu *Sakuya]
+[text 0002DB84 Reimu *Sakuya]
 私たちは皆、
 この世界から出られない
-[2A 0x0002DC94 00 Reimu *Sakuya]
+[text 0002DD78 Reimu *Sakuya]
 そんな話を聞きたいのよね
-[2A 0x0002DE88 00 *Reimu Sakuya]
+[text 0002DF6C *Reimu Sakuya]
 ええ。
 これってやっぱり…
-[2A 0x0002E07C 00 Reimu *Sakuya]
+[text 0002E160 Reimu *Sakuya]
 お嬢様のお力？
-[2A 0x0002E270 00 Reimu *Sakuya]
+[text 0002E354 Reimu *Sakuya]
 半分は真、半分は偽。
 そんな結論ね
-[2A 0x0002E464 00 *Reimu Sakuya]
+[text 0002E548 *Reimu Sakuya]
 あいつが関係してるのは
 間違いないのね？
-[2A 0x0002E658 00 Reimu *Sakuya]
+[text 0002E73C Reimu *Sakuya]
 知りたいのね、博麗霊夢
-[2A 0x0002E84C 00 Reimu *Sakuya]
+[text 0002E930 Reimu *Sakuya]
 だったらお嬢様の
 お気持ちを確かめてきて
-[2A 0x0002EA40 00 *Reimu Sakuya]
+[text 0002EB24 *Reimu Sakuya]
 そのつもりよ。
 じゃあね
-[2A 0x0002EC34 00 Reimu *Sakuya]
+[text 0002ED18 Reimu *Sakuya]
 それでは…
-[2A 0x0002EED0 02 *Sakuya]
+[text 0002EF54 *Sakuya]
 あなたなら
 きっとわかる…
-[2A 0x0002F064 02 *Sakuya]
+[text 0002F0E8 *Sakuya]
 この世界の中心にいるのは
 お嬢様ではない
-[2A 0x0002F1F8 02 *Sakuya]
+[text 0002F27C *Sakuya]
 博麗霊夢…あなたなのだと
-[28 0x0002F7D8 00 Reimu *Sakuya]
+[text 0002F8D0 Reimu *Sakuya]
 おつかれさま
-[2A 0x0002F9E0 00 *Reimu Sakuya]
+[text 0002FAC4 *Reimu Sakuya]
 え？
 おつかれさま
-[2A 0x0002FBD4 00 *Reimu Sakuya]
+[text 0002FCB8 *Reimu Sakuya]
 いったいどうしちゃったの？
-[2A 0x0002FDC8 00 Reimu *Sakuya]
+[text 0002FEAC Reimu *Sakuya]
 別にどうもしないけど？
-[2A 0x0002FFBC 00 *Reimu Sakuya]
+[text 000300A0 *Reimu Sakuya]
 なんだか急に
 丸くなってるんだけど
-[2A 0x000301B0 00 Reimu *Sakuya]
+[text 00030294 Reimu *Sakuya]
 うふふ、猫じゃないから
-[2A 0x000303A4 00 Reimu *Sakuya]
+[text 00030488 Reimu *Sakuya]
 にゃんにゃん♪
-[2A 0x00030598 00 *Reimu Sakuya]
+[text 0003067C *Reimu Sakuya]
 え…
-[2A 0x0003078C 00 Reimu *Sakuya]
+[text 00030870 Reimu *Sakuya]
 冗談だったんだけど
 似合わなかったかしら
-[2A 0x00030980 00 *Reimu Sakuya]
+[text 00030A64 *Reimu Sakuya]
 悲しそうに言わないで。
 ちょっと可愛かったかな
-[2A 0x00030B74 00 Reimu *Sakuya]
+[text 00030C58 Reimu *Sakuya]
 無理があったか…
-[2A 0x00030D68 00 Reimu *Sakuya]
+[text 00030E4C Reimu *Sakuya]
 あなたに少し説明しておきます。
 まだおしまいじゃない、と
-[2A 0x00030F5C 00 *Reimu Sakuya]
+[text 00031040 *Reimu Sakuya]
 それってどういう意味？
-[2A 0x00031150 00 Reimu *Sakuya]
+[text 00031234 Reimu *Sakuya]
 それに、あなたにお嬢様を
 任せることはまだ無理
-[2A 0x00031344 00 Reimu *Sakuya]
+[text 00031428 Reimu *Sakuya]
 さあ、振り出しにもどって。
 もっと腕を磨くの
-[2A 0x00031538 00 Reimu *Sakuya]
+[text 0003161C Reimu *Sakuya]
 ゲームは…
 これからだわ
-[28 0x00031BFC 02 *Reimu]
+[text 00031C9C *Reimu]
 そろそろ終わりかな？
-[2A 0x00031DAC 02 *Reimu]
+[text 00031E30 *Reimu]
 それとも、まだ続く？
-[2A 0x00031F40 02 *Reimu]
+[text 00031FC4 *Reimu]
 どちらでもいいんだけど
-[2A 0x000320D4 02 *Reimu]
+[text 00032158 *Reimu]
 魔理沙のやつ
 どうしてるんだろ
-[2A 0x00032268 02 *Reimu]
+[text 000322EC *Reimu]
 おつかいのことは
 忘れてるわねきっと
-[2A 0x000323FC 02 *Reimu]
+[text 00032480 *Reimu]
 ふう…
-[2A 0x00032590 02 *Reimu]
+[text 00032614 *Reimu]
 お茶飲もうと思ったら
 お菓子がなかっただけなのに
-[2A 0x00032724 02 *Reimu]
+[text 000327A8 *Reimu]
 ほんと変な日になったな…
-[2A 0x000328B8 02 *Reimu]
+[text 0003293C *Reimu]
 ま、いつも変か。
 進めるだけ進んでみるか
-[28 0x00032F1C 00 Reimu *Satori]
+[text 00033014 Reimu *Satori]
 ……
-[2A 0x00033124 00 *Reimu Satori]
+[text 00033208 *Reimu Satori]
 またぼうっとして。
 ここで何してるの？
-[2A 0x00033318 00 Reimu *Satori]
+[text 000333FC Reimu *Satori]
 …ごきげんよう
-[2A 0x0003350C 00 Reimu *Satori]
+[text 000335F0 Reimu *Satori]
 でも…
-[2A 0x00033700 00 Reimu *Satori]
+[text 000337E4 Reimu *Satori]
 ごきげんではないようですね…
-[2A 0x000338F4 00 *Reimu Satori]
+[text 000339D8 *Reimu Satori]
 読めてしまった？
 私の心
-[2A 0x00033AE8 00 Reimu *Satori]
+[text 00033BCC Reimu *Satori]
 はい…望んではいないけど
 見えてしまうから…
-[2A 0x00033CDC 00 Reimu *Satori]
+[text 00033DC0 Reimu *Satori]
 心の風景が…
-[2A 0x00033ED0 00 Reimu *Satori]
+[text 00033FB4 Reimu *Satori]
 あなたらしくないくらいに
 乱れているのが…
-[2A 0x000340C4 00 *Reimu Satori]
+[text 000341A8 *Reimu Satori]
 そうかな？
-[2A 0x000342B8 00 *Reimu Satori]
+[text 0003439C *Reimu Satori]
 あんなことやこんなこと…
-[2A 0x000344AC 00 Reimu *Satori]
+[text 00034590 Reimu *Satori]
 あ…
-[2A 0x000346A0 00 Reimu *Satori]
+[text 00034784 Reimu *Satori]
 そんな…
-[2A 0x00034894 00 Reimu *Satori]
+[text 00034978 Reimu *Satori]
 ええっ…！？
-[2A 0x00034A88 00 Reimu *Satori]
+[text 00034B6C Reimu *Satori]
 わ、わたし…
-[2A 0x00034C7C 00 Reimu *Satori]
+[text 00034D60 Reimu *Satori]
 くくっ…はあ、はあ…
-[2A 0x00034E70 00 *Reimu Satori]
+[text 00034F54 *Reimu Satori]
 気持ちだけ
 全力疾走してみた
-[2A 0x00035064 00 Reimu *Satori]
+[text 00035148 Reimu *Satori]
 つ、つかれました…
-[2A 0x00035258 00 *Reimu Satori]
+[text 0003533C *Reimu Satori]
 心を読めないくらい
 疲れちゃったところで
-[2A 0x0003544C 00 *Reimu Satori]
+[text 00035530 *Reimu Satori]
 あなたに質問があるの
-[2A 0x00035640 00 Reimu *Satori]
+[text 00035724 Reimu *Satori]
 どうして私がここにいる…？
-[2A 0x00035834 00 Reimu *Satori]
+[text 00035918 Reimu *Satori]
 それとも…この世界が
 繰り返されている理…由…？
-[2A 0x00035A28 00 *Reimu Satori]
+[text 00035B0C *Reimu Satori]
 どちらも知りたいんだけど
-[2A 0x00035C1C 00 Reimu *Satori]
+[text 00035D00 Reimu *Satori]
 私は招待客の一人。
 それがひとつ目の答えです…
-[2A 0x00035E10 00 Reimu *Satori]
+[text 00035EF4 Reimu *Satori]
 ふたつ目は
 とても複雑です…
-[2A 0x00036004 00 Reimu *Satori]
+[text 000360E8 Reimu *Satori]
 ただわかっていることは、
 とても強い思いが
-[2A 0x000361F8 00 Reimu *Satori]
+[text 000362DC Reimu *Satori]
 この世界をある形に
 しようとしていること…
-[2A 0x000363EC 00 *Reimu Satori]
+[text 000364D0 *Reimu Satori]
 強い思い？
-[2A 0x000365E0 00 Reimu *Satori]
+[text 000366C4 Reimu *Satori]
 誰かが望んでいるから
 あなたも私もここにいる
-[2A 0x000367D4 00 Reimu *Satori]
+[text 000368B8 Reimu *Satori]
 そういうことなのよ
-[2A 0x000369C8 00 *Reimu Satori]
+[text 00036AAC *Reimu Satori]
 よくわからない
-[2A 0x00036BBC 00 *Reimu Satori]
+[text 00036CA0 *Reimu Satori]
 でもみんな、何かがおかしい。
 そんな時って
-[2A 0x00036DB0 00 Reimu *Satori]
+[text 00036E94 Reimu *Satori]
 あなたは放っておけない…
 わかります…
-[2A 0x00036FA4 00 Reimu *Satori]
+[text 00037088 Reimu *Satori]
 では戦いましょう…
-[2A 0x00037198 00 Reimu *Satori]
+[text 0003727C Reimu *Satori]
 ひとつ目の用事もあるけど…
 それは後でも先でもいいから…
-[28 0x0003785C 00 Reimu *Satori]
+[text 00037954 Reimu *Satori]
 ずいぶんと心…
 整ってきたみたいです…
-[2A 0x00037A64 00 *Reimu Satori]
+[text 00037B48 *Reimu Satori]
 ふーん、あんたには
 私の心がそう見えるわけね
-[2A 0x00037C58 00 Reimu *Satori]
+[text 00037D3C Reimu *Satori]
 ええ、腑に落ちた…
 そんな感じがします…
-[2A 0x00037E4C 00 *Reimu Satori]
+[text 00037F30 *Reimu Satori]
 じゃあ
 何も言わなくていいのよね
-[2A 0x00038040 00 Reimu *Satori]
+[text 00038124 Reimu *Satori]
 ええ、でもこの先へと
 急いで去ってしまう前に
-[2A 0x00038234 00 Reimu *Satori]
+[text 00038318 Reimu *Satori]
 私の話を聞いてください…
-[2A 0x00038428 00 *Reimu Satori]
+[text 0003850C *Reimu Satori]
 いいわ
-[2A 0x0003861C 00 Reimu *Satori]
+[text 00038700 Reimu *Satori]
 …ありがとう
-[2A 0x00038810 00 Reimu *Satori]
+[text 000388F4 Reimu *Satori]
 あなたが思っている通り、
 この世界は繰り返されている…
-[2A 0x00038A04 00 Reimu *Satori]
+[text 00038AE8 Reimu *Satori]
 気づいている人もいれば
 感じている人もいる…
-[2A 0x00038BF8 00 Reimu *Satori]
+[text 00038CDC Reimu *Satori]
 知っている人もいれば
 無視している人もいた…
-[2A 0x00038DEC 00 *Reimu Satori]
+[text 00038ED0 *Reimu Satori]
 私は無視をしていたのかな？
-[2A 0x00038FE0 00 Reimu *Satori]
+[text 000390C4 Reimu *Satori]
 …そうかもしれないです
-[2A 0x000391D4 00 Reimu *Satori]
+[text 000392B8 Reimu *Satori]
 あなたは
 何度も繰り返したはず…
-[2A 0x000393C8 00 Reimu *Satori]
+[text 000394AC Reimu *Satori]
 「紅霧異変」での
 出会いと戦いをです…
-[2A 0x000395BC 00 *Reimu Satori]
+[text 000396A0 *Reimu Satori]
 「紅霧異変」
 そうか…そうだったのね
-[2A 0x000397B0 00 *Reimu Satori]
+[text 00039894 *Reimu Satori]
 あの時を
 私たちは繰り返していた
-[2A 0x000399A4 00 *Reimu Satori]
+[text 00039A88 *Reimu Satori]
 ずっと終わらないまま
-[2A 0x00039B98 00 Reimu *Satori]
+[text 00039C7C Reimu *Satori]
 終わることは
 悲しいことですか…？
-[2A 0x00039D8C 00 *Reimu Satori]
+[text 00039E70 *Reimu Satori]
 さあ、わからないわ。
 私はどちらでもいいから
-[2A 0x00039F80 00 *Reimu Satori]
+[text 0003A064 *Reimu Satori]
 でも、終わりを悲しいと思う
 気持ちはわかる
-[2A 0x0003A174 00 Reimu *Satori]
+[text 0003A258 Reimu *Satori]
 だったらその優しい気持ちを
 あの子に伝えてあげて…
-[2A 0x0003A368 00 Reimu *Satori]
+[text 0003A44C Reimu *Satori]
 すべては…運命をたぐり寄せる
 力を持ってしまったがために
-[2A 0x0003A55C 00 Reimu *Satori]
+[text 0003A640 Reimu *Satori]
 自身の弱さに絡め取られた
 駄目な吸血鬼のせい…
-[2A 0x0003A750 00 *Reimu Satori]
+[text 0003A834 *Reimu Satori]
 最後の最後に毒づいたのね
-[2A 0x0003A944 00 Reimu *Satori]
+[text 0003AA28 Reimu *Satori]
 褒め言葉です…
 未成熟な蒼い蕾的な…
-[2A 0x0003AB38 00 *Reimu Satori]
+[text 0003AC1C *Reimu Satori]
 どこがよ
-[2A 0x0003AD2C 00 *Reimu Satori]
+[text 0003AE10 *Reimu Satori]
 いいわ、会ってくる。
 この先にいるレミリアにね
-[2A 0x0003AF20 00 *Reimu Satori]
+[text 0003B004 *Reimu Satori]
 最後にほら。
 心を読んでみて
-[2A 0x0003B114 00 Reimu *Satori]
+[text 0003B1F8 Reimu *Satori]
 む…
-[2A 0x0003B308 00 Reimu *Satori]
+[text 0003B3EC Reimu *Satori]
 あっ…
 そんなのって…
-[2A 0x0003B4FC 00 Reimu *Satori]
+[text 0003B5E0 Reimu *Satori]
 もういいです
-[2A 0x0003B6F0 00 Reimu *Satori]
+[text 0003B7D4 Reimu *Satori]
 大人買いは
 大人になってからです
-[2A 0x0003B8E4 00 Reimu *Satori]
+[text 0003B9C8 Reimu *Satori]
 ほんとに腹黒いんですから…
 おさい銭の無駄使いはだめです…
-[2A 0x0003BAD8 00 *Reimu Satori]
+[text 0003BBBC *Reimu Satori]
 怒られたか。
 じゃあね
-[2A 0x0003BCCC 00 Reimu *Satori]
+[text 0003BDB0 Reimu *Satori]
 はい…
-[2A 0x0003BF8C 00 Reimu *Satori]
+[text 0003C070 Reimu *Satori]
 さてと…
 静かになりました…
-[2A 0x0003C180 00 Reimu *Satori]
+[text 0003C264 Reimu *Satori]
 ちょっとさみしいけど…
 それは誰かの心じゃなくて…
-[2A 0x0003C374 00 Reimu *Satori]
+[text 0003C458 Reimu *Satori]
 また会えますよね…
 みんなと…
-[28 0x0003C9B4 00 Reimu *Satori]
+[text 0003CAAC Reimu *Satori]
 さすが博麗の巫女…
 やっぱりこうなってしまいますか…
-[2A 0x0003CBBC 00 *Reimu Satori]
+[text 0003CCA0 *Reimu Satori]
 私が考えていること
 わかるわよね？
-[2A 0x0003CDB0 00 Reimu *Satori]
+[text 0003CE94 Reimu *Satori]
 ……
-[2A 0x0003CFA4 00 *Reimu Satori]
+[text 0003D088 *Reimu Satori]
 えい！
-[2A 0x0003D198 00 Reimu *Satori]
+[text 0003D27C Reimu *Satori]
 ……嫌です。
 いやらしい
-[2A 0x0003D38C 00 *Reimu Satori]
+[text 0003D470 *Reimu Satori]
 そんなこと
 いっさい考えてないから
-[2A 0x0003D580 00 Reimu *Satori]
+[text 0003D664 Reimu *Satori]
 ごめんなさい…
-[2A 0x0003D774 00 Reimu *Satori]
+[text 0003D858 Reimu *Satori]
 でも…あなたの
 気持ちじゃないとしたら…
-[2A 0x0003D968 00 Reimu *Satori]
+[text 0003DA4C Reimu *Satori]
 あっ…
-[2A 0x0003DB5C 00 *Reimu Satori]
+[text 0003DC40 *Reimu Satori]
 自爆したのね
-[2A 0x0003DD50 00 Reimu *Satori]
+[text 0003DE34 Reimu *Satori]
 はい…
-[2A 0x0003DF44 00 Reimu *Satori]
+[text 0003E028 Reimu *Satori]
 あなたをからかおうとして
 失敗してしまいました…
-[2A 0x0003E138 00 *Reimu Satori]
+[text 0003E21C *Reimu Satori]
 まったく。
 いいけどね
-[2A 0x0003E32C 00 *Reimu Satori]
+[text 0003E410 *Reimu Satori]
 それで？
-[2A 0x0003E520 00 Reimu *Satori]
+[text 0003E604 Reimu *Satori]
 あなたの道はこの先に
 あるかもしれない…
-[2A 0x0003E714 00 Reimu *Satori]
+[text 0003E7F8 Reimu *Satori]
 だけどまだ…
 進めないみたいです…
-[2A 0x0003E908 00 *Reimu Satori]
+[text 0003E9EC *Reimu Satori]
 それってどうしてなの？
-[2A 0x0003EAFC 00 Reimu *Satori]
+[text 0003EBE0 Reimu *Satori]
 誰かが望む運命の形が
 まだここには存在しない…
-[2A 0x0003ECF0 00 Reimu *Satori]
+[text 0003EDD4 Reimu *Satori]
 とでも言っておきます…
-[2A 0x0003EEE4 00 Reimu *Satori]
+[text 0003EFC8 Reimu *Satori]
 そしてこの世界には…
 まだ続きがあるようです…
-[2A 0x0003F0D8 00 *Reimu Satori]
+[text 0003F1BC *Reimu Satori]
 それって？
-[2A 0x0003F2CC 00 Reimu *Satori]
+[text 0003F3B0 Reimu *Satori]
 またお会いしましょう…。
 今とは違う、別の形で……
-[28 0x0003F990 02 *Reimu]
+[text 0003FA30 *Reimu]
 「紅霧異変」が繰り返されてる。
 それは間違いないわね
-[2A 0x0003FB40 02 *Reimu]
+[text 0003FBC4 *Reimu]
 この閉鎖空間「紅魔郷」から
 誰も出られないのは
-[2A 0x0003FCD4 02 *Reimu]
+[text 0003FD58 *Reimu]
 紅い霧のせいなのか
 それとも別の…
-[2A 0x0003FE68 02 *Reimu]
+[text 0003FEEC *Reimu]
 方法はなんだっていい。
 でも、理由は知らなきゃね！
-[2A 0x0003FFFC 02 *Reimu]
+[text 00040080 *Reimu]
 この渦の奥にはあいつがいる
-[2A 0x00040190 02 *Reimu]
+[text 00040214 *Reimu]
 レミリア・スカーレット…
 ずっと待っていたのよね
-[2A 0x00040324 02 *Reimu]
+[text 000403A8 *Reimu]
 すぐに行くから。
 待っていなさい
-[28 0x00040988 00 Reimu *Remilia]
+[text 00040A80 Reimu *Remilia]
 ふふ…
-[2A 0x00040B90 00 Reimu *Remilia]
+[text 00040C74 Reimu *Remilia]
 うふふふふ…
-[2A 0x00040D84 00 *Reimu Remilia]
+[text 00040E68 *Reimu Remilia]
 楽しそうね、レミリア
-[2A 0x00040F78 00 Reimu *Remilia]
+[text 0004105C Reimu *Remilia]
 よく来た、博麗霊夢…
-[2A 0x0004116C 00 *Reimu Remilia]
+[text 00041250 *Reimu Remilia]
 「紅魔郷」はあなたのせいって
 ことでいいのよね？
-[2A 0x00041360 00 Reimu *Remilia]
+[text 00041444 Reimu *Remilia]
 我が力がつむぎし迷宮の
 頼りなき住人よ…
-[2A 0x00041554 00 Reimu *Remilia]
+[text 00041638 Reimu *Remilia]
 この紅き戸惑いのふちで
-[2A 0x00041748 00 Reimu *Remilia]
+[text 0004182C Reimu *Remilia]
 このまま我が足元に
 かしずくがよいぞ…
-[2A 0x0004193C 00 Reimu *Remilia]
+[text 00041A20 Reimu *Remilia]
 くくっ…
 くくくくくっ…
-[2A 0x00041B30 00 Reimu *Remilia]
+[text 00041C14 Reimu *Remilia]
 あははははっ！
-[2A 0x00041D24 00 *Reimu Remilia]
+[text 00041E08 *Reimu Remilia]
 住人って…。
 住んだ覚えはないから
-[2A 0x00041F18 00 *Reimu Remilia]
+[text 00041FFC *Reimu Remilia]
 それに
 だいたいのことはわかってる
-[2A 0x0004210C 00 Reimu *Remilia]
+[text 000421F0 Reimu *Remilia]
 えっ…！？
-[2A 0x00042300 00 *Reimu Remilia]
+[text 000423E4 *Reimu Remilia]
 誰も館からでられないし
 時間も繰り返されてる
-[2A 0x000424F4 00 *Reimu Remilia]
+[text 000425D8 *Reimu Remilia]
 でしょ？
-[2A 0x000426E8 00 Reimu *Remilia]
+[text 000427CC Reimu *Remilia]
 む…
-[2A 0x000428DC 00 Reimu *Remilia]
+[text 000429C0 Reimu *Remilia]
 うふふっ。
 さすがね霊夢
-[2A 0x00042AD0 00 *Reimu Remilia]
+[text 00042BB4 *Reimu Remilia]
 さあ
 この世界を終わらせなさい
-[2A 0x00042CC4 00 Reimu *Remilia]
+[text 00042DA8 Reimu *Remilia]
 ひどいことを言うのね。
 でも、それも嬉しいわ
-[2A 0x00042EB8 00 Reimu *Remilia]
+[text 00042F9C Reimu *Remilia]
 月の紅さに
 泣きそうになること
-[2A 0x000430AC 00 Reimu *Remilia]
+[text 00043190 Reimu *Remilia]
 舞う華の紅が
 二度と還らぬこと
-[2A 0x000432A0 00 Reimu *Remilia]
+[text 00043384 Reimu *Remilia]
 霊夢ならわかってくれると
 思っていたもの
-[2A 0x00043494 00 *Reimu Remilia]
+[text 00043578 *Reimu Remilia]
 それが「紅魔郷」で
 時を繰り返させた理由？
-[2A 0x00043688 00 *Reimu Remilia]
+[text 0004376C *Reimu Remilia]
 皆を巻き込んで？
-[2A 0x0004387C 00 *Reimu Remilia]
+[text 00043960 *Reimu Remilia]
 だったら
 本心を聞かせてくれる？
-[2A 0x00043A70 00 Reimu *Remilia]
+[text 00043B54 Reimu *Remilia]
 いいわ…聞かせてあげる…
-[2A 0x00043C64 00 Reimu *Remilia]
+[text 00043D48 Reimu *Remilia]
 私は霊夢と戦いたい…
-[2A 0x00043E58 00 Reimu *Remilia]
+[text 00043F3C Reimu *Remilia]
 戦いたくて戦いたくて
 仕方がなかった…
-[2A 0x0004404C 00 Reimu *Remilia]
+[text 00044130 Reimu *Remilia]
 ずっとずっと
 いつまでも…
-[2A 0x00044240 00 Reimu *Remilia]
+[text 00044324 Reimu *Remilia]
 この瞳が紅に…
 完璧に染め抜かれるまで！
-[28 0x00044904 00 Reimu *Remilia]
+[text 000449FC Reimu *Remilia]
 私の負け…
-[2A 0x00044B0C 00 Reimu *Remilia]
+[text 00044BF0 Reimu *Remilia]
 どうして？
-[2A 0x00044D00 00 Reimu *Remilia]
+[text 00044DE4 Reimu *Remilia]
 なぜ勝てない？
-[2A 0x00044EF4 00 *Reimu Remilia]
+[text 00044FD8 *Reimu Remilia]
 私の方が強いからじゃない？
-[2A 0x000450E8 00 Reimu *Remilia]
+[text 000451CC Reimu *Remilia]
 むうっ！？
-[2A 0x000452DC 00 *Reimu Remilia]
+[text 000453C0 *Reimu Remilia]
 さあ、ここから
 出してもらいましょうか
-[2A 0x000454D0 00 Reimu *Remilia]
+[text 000455B4 Reimu *Remilia]
 くっくっくっくっく
 それはまだ無理ね
-[2A 0x000456C4 00 *Reimu Remilia]
+[text 000457A8 *Reimu Remilia]
 それって、あんたの力じゃ
 封印を解けないってこと？
-[2A 0x000458B8 00 Reimu *Remilia]
+[text 0004599C Reimu *Remilia]
 …………
-[2A 0x00045AAC 00 Reimu *Remilia]
+[text 00045B90 Reimu *Remilia]
 そうともいうわね
-[2A 0x00045CA0 00 *Reimu Remilia]
+[text 00045D84 *Reimu Remilia]
 まったく、自分がまともに
 扱えない力を使ってまで
-[2A 0x00045E94 00 *Reimu Remilia]
+[text 00045F78 *Reimu Remilia]
 私と戦いたかったっていうの？
-[2A 0x00046088 00 Reimu *Remilia]
+[text 0004616C Reimu *Remilia]
 その通りだけど悪い？
-[2A 0x0004627C 00 Reimu *Remilia]
+[text 00046360 Reimu *Remilia]
 祝勝会の準備もしていたわ
 客人も呼んでおいたし
-[2A 0x00046470 00 Reimu *Remilia]
+[text 00046554 Reimu *Remilia]
 まあ…ゲストというか
 労働力としても数えていたけど
-[2A 0x00046664 00 *Reimu Remilia]
+[text 00046748 *Reimu Remilia]
 その祝勝会、中止するわけ？
-[2A 0x00046858 00 Reimu *Remilia]
+[text 0004693C Reimu *Remilia]
 …そうするしかないわ
-[2A 0x00046A4C 00 Reimu *Remilia]
+[text 00046B30 Reimu *Remilia]
 しかし、次は必ずや
 私が霊夢に勝ってみせる！
-[2A 0x00046C40 00 *Reimu Remilia]
+[text 00046D24 *Reimu Remilia]
 無理無理
-[2A 0x00046E34 00 Reimu *Remilia]
+[text 00046F18 Reimu *Remilia]
 にゃ！？
-[2A 0x00047028 00 *Reimu Remilia]
+[text 0004710C *Reimu Remilia]
 でも…やったらいいじゃない
-[2A 0x0004721C 00 *Reimu Remilia]
+[text 00047300 *Reimu Remilia]
 どうせここ出るには
 何かやらないといけないんでしょう？
-[2A 0x00047410 00 *Reimu Remilia]
+[text 000474F4 *Reimu Remilia]
 だったら時間もあるわけだしね
-[2A 0x00047604 00 *Reimu Remilia]
+[text 000476E8 *Reimu Remilia]
 祝勝会じゃないけど…
 そうね、お茶会でどう？
-[2A 0x000477F8 00 *Reimu Remilia]
+[text 000478DC *Reimu Remilia]
 ちょうど
 お茶が飲みたかったのよね
-[2A 0x000479EC 00 Reimu *Remilia]
+[text 00047AD0 Reimu *Remilia]
 ふうむ…それは悪くない提案ね
-[2A 0x00047BE0 00 Reimu *Remilia]
+[text 00047CC4 Reimu *Remilia]
 よし、ではすぐにはじめよう！
-[2A 0x00047DD4 00 *Reimu Remilia]
+[text 00047EB8 *Reimu Remilia]
 ところで質問なんだけど
-[2A 0x00047FC8 00 *Reimu Remilia]
+[text 000480AC *Reimu Remilia]
 どうして、わざわざ
 こんな世界を作ったの？
-[2A 0x000481BC 00 Reimu *Remilia]
+[text 000482A0 Reimu *Remilia]
 それは霊夢と戦うために…
-[2A 0x000483B0 00 *Reimu Remilia]
+[text 00048494 *Reimu Remilia]
 それだけなのかしら？
-[2A 0x000485A4 00 Reimu *Remilia]
+[text 00048688 Reimu *Remilia]
 …この世界が…
 終わって欲しくなかっただけだ
-[2A 0x00048798 00 *Reimu Remilia]
+[text 0004887C *Reimu Remilia]
 ん…？
-[2A 0x0004898C 00 Reimu *Remilia]
+[text 00048A70 Reimu *Remilia]
 二度目は言わないわ！
-[2A 0x00048B80 00 Reimu *Remilia]
+[text 00048C64 Reimu *Remilia]
 さあ、この世界があの力で
 破られてしまうまで
-[2A 0x00048D74 00 Reimu *Remilia]
+[text 00048E58 Reimu *Remilia]
 茶会でまったりしようじゃないの
-[2A 0x00048F68 00 *Reimu Remilia]
+[text 0004904C *Reimu Remilia]
 あの力って…
-[2A 0x0004915C 00 *Reimu Remilia]
+[text 00049240 *Reimu Remilia]
 そっか、そういうことか。
 わかったわ
-[2A 0x00049350 00 *Reimu Remilia]
+[text 00049434 *Reimu Remilia]
 ダメっ子はダメっ子なりに
 考えてたわけね
-[2A 0x00049544 00 *Reimu Remilia]
+[text 00049628 *Reimu Remilia]
 よしよし。
 いい子いい子
-[2A 0x00049738 00 Reimu *Remilia]
+[text 0004981C Reimu *Remilia]
 こ、この私を
 いい子いい子…！？
-[2A 0x0004992C 00 *Reimu Remilia]
+[text 00049A10 *Reimu Remilia]
 嫌なら逃げたら？
-[2A 0x00049B20 00 Reimu *Remilia]
+[text 00049C04 Reimu *Remilia]
 この気高き紅の眷属が
 人間などに怯えて逃げるとでも？
-[2A 0x00049D14 00 Reimu *Remilia]
+[text 00049DF8 Reimu *Remilia]
 …しばらくこのままでいるわ
-[2A 0x00049F08 00 *Reimu Remilia]
+[text 00049FEC *Reimu Remilia]
 なつかれたか。
 勝手にしなさい
-[2A 0x0004A0FC 00 Reimu *Remilia]
+[text 0004A1E0 Reimu *Remilia]
 私はいつも勝手にするわ。
 本当は偉いのよ
-[2A 0x0004A2F0 00 *Reimu Remilia]
+[text 0004A3D4 *Reimu Remilia]
 わかったわかったお嬢様
-[2A 0x0004A4E4 00 Reimu *Remilia]
+[text 0004A5C8 Reimu *Remilia]
 レミリア様と呼びなさい
-[2A 0x0004A6D8 00 *Reimu Remilia]
+[text 0004A7BC *Reimu Remilia]
 はいはい、レミリア様
-[2A 0x0004A8CC 00 *Reimu Remilia]
+[text 0004A9B0 *Reimu Remilia]
 じゃあ、そろそろ行こうか。
 みんなを呼んでこなきゃね
-[2A 0x0004AAC0 00 Reimu *Remilia]
+[text 0004ABA4 Reimu *Remilia]
 ふふ。
 素敵な茶会になりそうね。
-[28 0x0004B184 00 Reimu *Remilia]
+[text 0004B27C Reimu *Remilia]
 そんなのが
 私に通じると思ってた？
-[2A 0x0004B38C 00 *Reimu Remilia]
+[text 0004B470 *Reimu Remilia]
 駄目元でやってみたけど
 やっぱり駄目だったか
-[2A 0x0004B580 00 Reimu *Remilia]
+[text 0004B664 Reimu *Remilia]
 まあ、試みとしてはよかったわ。
 相手が私じゃなければね
-[2A 0x0004B774 00 *Reimu Remilia]
+[text 0004B858 *Reimu Remilia]
 はあ…
 じゃあ、正面から戦うしかないか
-[2A 0x0004B968 00 Reimu *Remilia]
+[text 0004BA4C Reimu *Remilia]
 本気でかかってくることね
-[28 0x0004C02C 02 *Reimu]
+[text 0004C0CC *Reimu]
 「あいつ」を起こしてきてって、
 レミリアも素直じゃないんだから
-[2A 0x0004C1DC 02 *Reimu]
+[text 0004C260 *Reimu]
 自分で起こしてあげればいいのに
 恥ずかしがってる？
-[2A 0x0004C370 02 *Reimu]
+[text 0004C3F4 *Reimu]
 それはないか…
-[2A 0x0004C504 02 *Reimu]
+[text 0004C588 *Reimu]
 お茶会でお腹がいっぱいだし
 なんだか眠たいけど…
-[2A 0x0004C698 02 *Reimu]
+[text 0004C71C *Reimu]
 「紅魔郷」の封印を破るには
 あいつの力が必要
-[2A 0x0004C82C 02 *Reimu]
+[text 0004C8B0 *Reimu]
 行ってあげるしかないのよね
-[28 0x0004CE90 00 Reimu *Remilia]
+[text 0004CF88 Reimu *Fran]
 紅白の巫女…
-[2A 0x0004D098 00 Reimu *Remilia]
+[text 0004D17C Reimu *Fran]
 何をしにきたの…
 人間のくせに…
-[2A 0x0004D28C 00 Reimu *Remilia]
+[text 0004D370 Reimu *Fran]
 お姉様を篭絡した
 不届き者…
-[2A 0x0004D480 00 *Reimu Remilia]
+[text 0004D564 *Reimu Fran]
 そんな覚えないから。
 あっちがなついただけ
-[2A 0x0004D674 00 *Reimu Remilia]
+[text 0004D758 *Reimu Fran]
 私は妖精や妖怪に
 なつかれやすいのが悩みなのよね
-[2A 0x0004D868 00 Reimu *Remilia]
+[text 0004D94C Reimu *Fran]
 なついた？
-[2A 0x0004DA5C 00 Reimu *Remilia]
+[text 0004DB40 Reimu *Fran]
 うふ…
 うふふふ…
-[2A 0x0004DC50 00 Reimu *Remilia]
+[text 0004DD34 Reimu *Fran]
 あははははっ！
 それはいい、いいのっ！
-[2A 0x0004DE44 00 Reimu *Remilia]
+[text 0004DF28 Reimu *Fran]
 お姉様がなついたか！
-[2A 0x0004E038 00 Reimu *Remilia]
+[text 0004E11C Reimu *Fran]
 あははははははっ！
-[2A 0x0004E22C 00 *Reimu Remilia]
+[text 0004E310 *Reimu Fran]
 楽しそうね。
 用があるんだけど
-[2A 0x0004E420 00 Reimu *Remilia]
+[text 0004E504 Reimu *Fran]
 ふふっ、くくくくくっ
-[2A 0x0004E614 00 Reimu *Remilia]
+[text 0004E6F8 Reimu *Fran]
 わかっている紅白…
-[2A 0x0004E808 00 Reimu *Remilia]
+[text 0004E8EC Reimu *Fran]
 次はこの私を
 てなづけるつもりね
-[2A 0x0004E9FC 00 *Reimu Remilia]
+[text 0004EAE0 *Reimu Fran]
 用はあるけど
 勘違いしてるみたいね
-[2A 0x0004EBF0 00 Reimu *Remilia]
+[text 0004ECD4 Reimu *Fran]
 体中を虫が這いずるような…
 そんな悪寒がするわ…
-[2A 0x0004EDE4 00 Reimu *Remilia]
+[text 0004EEC8 Reimu *Fran]
 この高貴なる身体に
 悪しき何かが蠢く…
-[2A 0x0004EFD8 00 Reimu *Remilia]
+[text 0004F0BC Reimu *Fran]
 疼くの…
 心の臓のあたりが…
-[2A 0x0004F1CC 00 Reimu *Remilia]
+[text 0004F2B0 Reimu *Fran]
 あなたの仕業ね？
 博麗の巫女め…
-[2A 0x0004F3C0 00 *Reimu Remilia]
+[text 0004F4A4 *Reimu Fran]
 あはっ。
 そっちも繰り返してたんだ
-[2A 0x0004F5B4 00 Reimu *Remilia]
+[text 0004F698 Reimu *Fran]
 え？
 繰り返しってなんなの？
-[2A 0x0004F7A8 00 *Reimu Remilia]
+[text 0004F88C *Reimu Fran]
 その感じ、私にもわかる
-[2A 0x0004F99C 00 *Reimu Remilia]
+[text 0004FA80 *Reimu Fran]
 あんたはね。
 お腹が減ってるのよ
-[2A 0x0004FB90 00 *Reimu Remilia]
+[text 0004FC74 *Reimu Fran]
 繰り返される時間の中で
 ずっと食べていないから
-[2A 0x0004FD84 00 Reimu *Remilia]
+[text 0004FE68 Reimu *Fran]
 え………お腹？
 腹ペコなの…これ？
-[2A 0x0004FF78 00 *Reimu Remilia]
+[text 0005005C *Reimu Fran]
 それも…
 ここで終わらせてあげる
-[2A 0x0005016C 00 *Reimu Remilia]
+[text 00050250 *Reimu Fran]
 もう
 コンティニューできないのさ！
-[2A 0x00050360 00 Reimu *Remilia]
+[text 00050444 Reimu *Fran]
 …え？
-[2A 0x00050554 00 Reimu *Remilia]
+[text 00050638 Reimu *Fran]
 ええーっ！？
-[2A 0x00050748 00 Reimu *Remilia]
+[text 0005082C Reimu *Fran]
 どうしてそっちが
 隠しボスみたいな台詞なの！？
-[2A 0x0005093C 00 *Reimu Remilia]
+[text 00050A20 *Reimu Fran]
 さて、ね？
 たまにはいいんじゃない？
-[2A 0x00050B30 00 *Reimu Remilia]
+[text 00050C14 *Reimu Fran]
 行くよ！
-[28 0x000511F4 00 *Reimu Remilia]
+[text 000512EC *Reimu Fran]
 あらためて。
 おはよう
-[2A 0x000513FC 00 Reimu *Remilia]
+[text 000514E0 Reimu *Fran]
 お、おはよう…
-[2A 0x000515F0 00 *Reimu Remilia]
+[text 000516D4 *Reimu Fran]
 目は覚めた？
-[2A 0x000517E4 00 Reimu *Remilia]
+[text 000518C8 Reimu *Fran]
 先程からバリバリに
 覚めてたのに…
-[2A 0x000519D8 00 *Reimu Remilia]
+[text 00051ABC *Reimu Fran]
 ん？
-[2A 0x00051BCC 00 Reimu *Remilia]
+[text 00051CB0 Reimu *Fran]
 もういいわ…
-[2A 0x00051DC0 00 Reimu *Remilia]
+[text 00051EA4 Reimu *Fran]
 ここには何をしに？
-[2A 0x00051FB4 00 Reimu *Remilia]
+[text 00052098 Reimu *Fran]
 本当にてなづけるつもりなら
 私はそう簡単には…
-[2A 0x000521A8 00 *Reimu Remilia]
+[text 0005228C *Reimu Fran]
 レミリアたちがあんたを待ってるわよ。
 今、お茶会の途中だから
-[2A 0x0005239C 00 Reimu *Remilia]
+[text 00052480 Reimu *Fran]
 お茶会？
-[2A 0x00052590 00 Reimu *Remilia]
+[text 00052674 Reimu *Fran]
 …それだけ？
 呼びに来ただけなの？
-[2A 0x00052784 00 *Reimu Remilia]
+[text 00052868 *Reimu Fran]
 いいえ。お茶会が終わったら
 ひとつお願いがあるんだけど
-[2A 0x00052978 00 *Reimu Remilia]
+[text 00052A5C *Reimu Fran]
 ぎゅっとしてパリーンって
 しちゃってくれる？
-[2A 0x00052B6C 00 *Reimu Remilia]
+[text 00052C50 *Reimu Fran]
 潰してほしいものが
 あるんだけど
-[2A 0x00052D60 00 Reimu *Remilia]
+[text 00052E44 Reimu *Fran]
 破壊ね…
-[2A 0x00052F54 00 Reimu *Remilia]
+[text 00053038 Reimu *Fran]
 うふふ…
-[2A 0x00053148 00 Reimu *Remilia]
+[text 0005322C Reimu *Fran]
 やりすぎないように
 気をつけるわ
-[2A 0x0005333C 00 *Reimu Remilia]
+[text 00053420 *Reimu Fran]
 じゃあ、行くよ。
 みんなが待ってるから
-[2A 0x00053530 00 Reimu *Remilia]
+[text 00053614 Reimu *Fran]
 紅白の巫女
-[2A 0x00053724 00 *Reimu Remilia]
+[text 00053808 *Reimu Fran]
 なに？
-[2A 0x00053918 00 Reimu *Remilia]
+[text 000539FC Reimu *Fran]
 手なずけなくていいの？
-[2A 0x00053B0C 00 *Reimu Remilia]
+[text 00053BF0 *Reimu Fran]
 いや、誰も
 手なずけてないから
-[2A 0x00053D00 00 *Reimu Remilia]
+[text 00053DE4 *Reimu Fran]
 言ったでしょ
 勝手になついてくるの
-[2A 0x00053EF4 00 Reimu *Remilia]
+[text 00053FD8 Reimu *Fran]
 ふっ、そうね
-[2A 0x000540E8 00 Reimu *Remilia]
+[text 000541CC Reimu *Fran]
 そういうのは
 自分の勝手、なのね
-[2A 0x000542DC 00 *Reimu Remilia]
+[text 000543C0 *Reimu Fran]
 そうそう。
 相手は自分で選びなさい
-[2A 0x000544D0 00 Reimu *Remilia]
+[text 000545B4 Reimu *Fran]
 だったらいいの。
 もう決めてるから
-[2A 0x000546C4 00 *Reimu Remilia]
+[text 000547A8 *Reimu Fran]
 そ？
-[2A 0x000548B8 00 Reimu *Remilia]
+[text 0005499C Reimu *Fran]
 お茶会は庭？
-[2A 0x00054AAC 00 *Reimu Remilia]
+[text 00054B90 *Reimu Fran]
 そうよ。紅い霧がでてるから
 外に出ても大丈夫よ
-[2A 0x00054CA0 00 Reimu *Remilia]
+[text 00054D84 Reimu *Fran]
 そう…
-[2A 0x00054E94 00 Reimu *Remilia]
+[text 00054F78 Reimu *Fran]
 ふう…
-[2A 0x00055088 00 Reimu *Remilia]
+[text 0005516C Reimu *Fran]
 外は久しぶりね
-[28 0x0005574C 02 *Reimu]
+[text 000557EC *Reimu]
 あれ？
 この感じって
-[2A 0x000558FC 02 *Reimu]
+[text 00055980 *Reimu]
 覚えてるような
 覚えてないような
-[2A 0x00055A90 02 *Reimu]
+[text 00055B14 *Reimu]
 どこかに引き戻されて…る？
-[2A 0x00055C24 02 *Reimu]
+[text 00055CA8 *Reimu]
 これってもしかして
 時間が繰り返されてる？
-[28 0x00055E84 02 *Remilia]
+[text 00055F24 *Remilia]
 まだこの話を
 終わらせてなんかあげない
-[2A 0x00056034 02 *Remilia]
+[text 000560B8 *Remilia]
 次はここまで来るのよ
-[2A 0x000561C8 02 *Remilia]
+[text 0005624C *Remilia]
 霊夢…次はきっと…
-[28 0x000567A8 02 *Reimu]
+[text 00056848 *Reimu]
 あれっ？
 何これっ？
-[2A 0x00056958 02 *Reimu]
+[text 000569DC *Reimu]
 どこかに…
-[2A 0x00056AEC 02 *Reimu]
+[text 00056B70 *Reimu]
 ちがう。
 最初に戻されていく…？
-[28 0x00056D4C 02 *Remilia]
+[text 00056DEC *Remilia]
 まだこの話を
 終わらせてなんかあげない
-[2A 0x00056EFC 02 *Remilia]
+[text 00056F80 *Remilia]
 次はここまで来るのよ
-[2A 0x00057090 02 *Remilia]
+[text 00057114 *Remilia]
 霊夢…次はきっと…

@@ -4,20 +4,20 @@ if [ "$1" == "" ]; then
 	echo "Please pass one of the following languages:"
 	cd scripts
 	for f in *; do
-		echo "	 * $f"
+		echo "   $f"
 	done
 	cd ..
 	exit 0
 fi
 
 if [ ! -e tools/scetool ]; then
-	gcc -o tools/scetool tools/src/scetool.c
+	gcc -o tools/scetool tools/src/{scetool,inject,extract}.c
 fi
 
 cd scripts
 if [ -d $1 ] && [ -d ../data/Data/Sce ]; then
 	cd $1
-	
+
 	# Inject translation.
 	for f in *.txt; do
 		CURRENT_VOL=$(basename "$f" .txt)
@@ -27,11 +27,11 @@ if [ -d $1 ] && [ -d ../data/Data/Sce ]; then
 			../../tools/scetool inject ../../data/Data/Sce/$CURRENT_VOL.vol.bak $CURRENT_VOL.txt ../../data/Data/Sce/$CURRENT_VOL.vol
 		fi
 	done
-	
+
 	cd ../../patches/$1/
 
 	# Apply deltas.
-	
+
 	for f in *.xdelta3; do
 		APPLYTO=$(basename $f .xdelta3)
 

@@ -1,1555 +1,1556 @@
-[28 0x00000374 02 *Marisa]
+[text 00000414 *Marisa]
 「紅の館に術を高める稀有な宝有り」
 ……か
-[2A 0x00000524 02 *Marisa]
+[text 000005A8 *Marisa]
 香霖がふと漏らしたこの言葉
-[2A 0x000006B8 02 *Marisa]
+[text 0000073C *Marisa]
 この魔理沙さまが
 聞き逃すわけがない！
-[2A 0x0000084C 02 *Marisa]
+[text 000008D0 *Marisa]
 速攻、空を飛び、森を抜け、紅魔館へ！
-[2A 0x000009E0 02 *Marisa]
+[text 00000A64 *Marisa]
 …………
-[2A 0x00000B74 02 *Marisa]
+[text 00000BF8 *Marisa]
 ってわけなんだけど…なんだよこれ。
 前の異変と同じ紅い霧…だよな？
-[2A 0x00000D08 02 *Marisa]
+[text 00000D8C *Marisa]
 なんだか穏やかじゃないな…
 だからって引き返す私じゃないけどな！
-[2A 0x00000E9C 02 *Marisa]
+[text 00000F20 *Marisa]
 お宝を逃すわけにはいかないぜ！！
-[2A 0x00001030 02 *Marisa]
+[text 000010B4 *Marisa]
 …………
-[2A 0x000011C4 02 *Marisa]
+[text 00001248 *Marisa]
 うーん、霊夢に何か
 頼まれてたよーな気もするけど…
-[2A 0x00001358 02 *Marisa]
+[text 000013DC *Marisa]
 なんだっけ…
-[28 0x000019BC 00 Marisa *Cirno]
+[text 00001AB4 Marisa *Cirno]
 ちょおいと待ちな！
-[2A 0x00001BC4 00 *Marisa Cirno]
+[text 00001CA8 *Marisa Cirno]
 なんだ？
-[2A 0x00001DB8 00 Marisa *Cirno]
+[text 00001E9C Marisa *Cirno]
 このあたいに、ここで会ったが百年目！
 もうきのふぼくうどんげのはな！
-[2A 0x00001FAC 00 *Marisa Cirno]
+[text 00002090 *Marisa Cirno]
 はあ？？？
-[2A 0x000021A0 00 *Marisa Cirno]
+[text 00002284 *Marisa Cirno]
 またお前か…。
 …自分で何言ってるかわかってんのか？
-[2A 0x00002394 00 Marisa *Cirno]
+[text 00002478 Marisa *Cirno]
 と、当然だろぉ！
-[2A 0x00002588 00 *Marisa Cirno]
+[text 0000266C *Marisa Cirno]
 じゃあ説明してみろよ
-[2A 0x0000277C 00 Marisa *Cirno]
+[text 00002860 Marisa *Cirno]
 ……
-[2A 0x00002970 00 *Marisa Cirno]
+[text 00002A54 *Marisa Cirno]
 はあ…ったく
 お前って期待を裏切らないやつだな
-[2A 0x00002B64 00 Marisa *Cirno]
+[text 00002C48 Marisa *Cirno]
 あーっ、今バカにしただろぉ！
-[2A 0x00002D58 00 *Marisa Cirno]
+[text 00002E3C *Marisa Cirno]
 おっ、それはわかったんだ。
 チルノはお利口さんだなー
-[2A 0x00002F4C 00 Marisa *Cirno]
+[text 00003030 Marisa *Cirno]
 あ、頭を撫でるなあ！
-[2A 0x00003140 00 *Marisa Cirno]
+[text 00003224 *Marisa Cirno]
 お、今度は怒ったか！？
 あはは、お前は面白いな！
-[2A 0x00003334 00 Marisa *Cirno]
+[text 00003418 Marisa *Cirno]
 むーーーー！
-[2A 0x00003528 00 *Marisa Cirno]
+[text 0000360C *Marisa Cirno]
 すねるなよ
-[2A 0x0000371C 00 Marisa *Cirno]
+[text 00003800 Marisa *Cirno]
 くっそぉ！！
-[2A 0x00003910 00 Marisa *Cirno]
+[text 000039F4 Marisa *Cirno]
 おまえなんか
 おまえなんか……
-[2A 0x00003B04 00 Marisa *Cirno]
+[text 00003BE8 Marisa *Cirno]
 バーカ！
-[2A 0x00003CF8 00 *Marisa Cirno]
+[text 00003DDC *Marisa Cirno]
 悪口くらいちゃんと
 言えよな…
-[2A 0x00003EEC 00 *Marisa Cirno]
+[text 00003FD0 *Marisa Cirno]
 いいぜ、相手になってやる！
-[28 0x000045B0 00 *Marisa Cirno]
+[text 000046A8 *Marisa Cirno]
 やっぱお前ってバカだなぁ……
-[2A 0x000047B8 00 Marisa *Cirno]
+[text 0000489C Marisa *Cirno]
 う、うるさいうるさい！
 今日はちょっと遊んでやっただけだよ！
-[2A 0x000049AC 00 *Marisa Cirno]
+[text 00004A90 *Marisa Cirno]
 負け惜しみかよ。見苦しいぞ
-[2A 0x00004BA0 00 Marisa *Cirno]
+[text 00004C84 Marisa *Cirno]
 あたいは最強の妖精なんだから！
-[2A 0x00004D94 00 *Marisa Cirno]
+[text 00004E78 *Marisa Cirno]
 知ってるよ。
 また遊んでやるからさ。いつでもいいぞ
-[2A 0x00004F88 00 Marisa *Cirno]
+[text 0000506C Marisa *Cirno]
 お断りだよ！
 もう魔理沙と遊んでなんかやらないから！
-[2A 0x0000517C 00 Marisa *Cirno]
+[text 00005260 Marisa *Cirno]
 あたいは忙しいんだ！
-[2A 0x00005370 00 *Marisa Cirno]
+[text 00005454 *Marisa Cirno]
 忙しいって何が？
-[2A 0x00005564 00 Marisa *Cirno]
+[text 00005648 Marisa *Cirno]
 そ、それは…秘密だよっ！
-[2A 0x00005758 00 *Marisa Cirno]
+[text 0000583C *Marisa Cirno]
 秘密って、お前も
 知らないんじゃないだろうな
-[2A 0x0000594C 00 Marisa *Cirno]
+[text 00005A30 Marisa *Cirno]
 ギ、ギクッ…
-[2A 0x00005B40 00 *Marisa Cirno]
+[text 00005C24 *Marisa Cirno]
 それ、わかりやすすぎるだろ…
 いくら図星だからって
-[2A 0x00005D34 00 *Marisa Cirno]
+[text 00005E18 *Marisa Cirno]
 ギクッ
 とか言うか、ふつー
-[2A 0x00005F28 00 Marisa *Cirno]
+[text 0000600C Marisa *Cirno]
 あ、あたいはふつーじゃなくて
 最強の妖精だから
-[2A 0x0000611C 00 Marisa *Cirno]
+[text 00006200 Marisa *Cirno]
 言う時は言うんだ！
-[2A 0x00006310 00 Marisa *Cirno]
+[text 000063F4 Marisa *Cirno]
 じゃあ、忙しいから行くよっ！
 またね！
-[2A 0x00006504 00 Marisa *Cirno]
+[text 000065E8 Marisa *Cirno]
 ……
-[2A 0x000066F8 00 Marisa *Cirno]
+[text 000067DC Marisa *Cirno]
 神社に遊びに行くからね！
-[2A 0x000068EC 00 Marisa *Cirno]
+[text 000069D0 Marisa *Cirno]
 ……
-[2A 0x00006AE0 00 Marisa *Cirno]
+[text 00006BC4 Marisa *Cirno]
 行ってもいいよねっ！？
-[2A 0x00006CD4 00 *Marisa Cirno]
+[text 00006DB8 *Marisa Cirno]
 それはいいんだが…
-[2A 0x00006EC8 00 Marisa *Cirno]
+[text 00006FAC Marisa *Cirno]
 ほっ…よかったぁ…
 じゃあ行くから！
-[2A 0x000070BC 00 Marisa *Cirno]
+[text 000071A0 Marisa *Cirno]
 忙しい忙しい…
-[2A 0x0000737C 02 *Marisa]
+[text 00007400 *Marisa]
 っておい！
-[2A 0x00007510 02 *Marisa]
+[text 00007594 *Marisa]
 …行っちゃったな
-[2A 0x000076A4 02 *Marisa]
+[text 00007728 *Marisa]
 なんなんだあいつは…
 何か隠してるみたいだったが…
-[2A 0x00007838 02 *Marisa]
+[text 000078BC *Marisa]
 ま、いいか！
 切り替え切り替え
-[2A 0x000079CC 02 *Marisa]
+[text 00007A50 *Marisa]
 この先には
 お宝が待っているんだしな！
-[28 0x00007FAC 00 Marisa *Cirno]
+[text 000080A4 Marisa *Cirno]
 ちょっとちょっと！
-[2A 0x000081B4 00 Marisa *Cirno]
+[text 00008298 Marisa *Cirno]
 不意打ちなんて卑怯じゃん！
-[2A 0x000083A8 00 *Marisa Cirno]
+[text 0000848C *Marisa Cirno]
 なんでだ？
 これは戦いなんだぜ
-[2A 0x0000859C 00 Marisa *Cirno]
+[text 00008680 Marisa *Cirno]
 ぐぬぬぬぬぬぬ…
-[2A 0x00008790 00 *Marisa Cirno]
+[text 00008874 *Marisa Cirno]
 さあ、続きをはじめようぜ
-[2A 0x00008984 00 Marisa *Cirno]
+[text 00008A68 Marisa *Cirno]
 もう怒ったぞ！
 泣いても知らないんだからな！
-[28 0x00009048 02 *Marisa]
+[text 000090E8 *Marisa]
 首尾よく潜入成功！
 楽勝楽勝♪
-[2A 0x000091F8 02 *Marisa]
+[text 0000927C *Marisa]
 まったく美鈴は
 ちゃんと仕事しろっての！
-[2A 0x0000938C 02 *Marisa]
+[text 00009410 *Marisa]
 とはいうものの…ここどこだよ！？
-[2A 0x00009520 02 *Marisa]
+[text 000095A4 *Marisa]
 薄気味悪いとこだぜ。
 まさか咲夜の仕業か？
-[28 0x00009B84 02 *Marisa]
+[text 00009C24 *Marisa]
 はあー。
 こんなとこにお宝があると思えないが…
-[2A 0x00009D34 02 *Marisa]
+[text 00009DB8 *Marisa]
 しょうがない
 一応探しておくか…
-[2A 0x00009EC8 02 *Marisa]
+[text 00009F4C *Marisa]
 やれやれ…
 ……
-[2A 0x0000A05C 02 *Marisa]
+[text 0000A0E0 *Marisa]
 って、ないなあー
 あるわけないよなあ
-[28 0x0000A214 02 *Sanae]
+[text 0000A2B4 *Sanae]
 そこ、ダメですよ！
-[2A 0x0000A3C4 00 *Marisa Sanae]
+[text 0000A4A8 *Marisa Sanae]
 どきーん！
-[2A 0x0000A5B8 00 Marisa *Sanae]
+[text 0000A69C Marisa *Sanae]
 今片付けたところなんですから
 触らないで下さい！
-[2A 0x0000A7AC 00 Marisa *Sanae]
+[text 0000A890 Marisa *Sanae]
 あと、今「どきーん」って
 心の声を口に出しましたね
-[2A 0x0000A9A0 00 *Marisa Sanae]
+[text 0000AA84 *Marisa Sanae]
 い、いいだろそんなこと！
-[2A 0x0000AB94 00 *Marisa Sanae]
+[text 0000AC78 *Marisa Sanae]
 早苗…お前
 なんでここにいるんだ？
-[2A 0x0000AD88 00 Marisa *Sanae]
+[text 0000AE6C Marisa *Sanae]
 呼ばれて来てみたら
 この有様だったの
-[2A 0x0000AF7C 00 Marisa *Sanae]
+[text 0000B060 Marisa *Sanae]
 それで私…
 やっとここまで綺麗にしたんですよ？
-[2A 0x0000B170 00 Marisa *Sanae]
+[text 0000B254 Marisa *Sanae]
 貴方は、また散らかす気？
-[2A 0x0000B364 00 *Marisa Sanae]
+[text 0000B448 *Marisa Sanae]
 い、いやそういうわけじゃないけどさ。
 ちょっと探しものしてて…
-[2A 0x0000B558 00 Marisa *Sanae]
+[text 0000B63C Marisa *Sanae]
 まったく！
 ウチといい、ここといい！
-[2A 0x0000B74C 00 Marisa *Sanae]
+[text 0000B830 Marisa *Sanae]
 皆、掃除する人のこと
 ぜんぜん考えてないんだから！
-[2A 0x0000B940 00 *Marisa Sanae]
+[text 0000BA24 *Marisa Sanae]
 誰の話してんだよ…。
 それより掃除ってお前…
-[2A 0x0000BB34 00 *Marisa Sanae]
+[text 0000BC18 *Marisa Sanae]
 散らかってるっていう
 レベルじゃねえだろ！？
-[2A 0x0000BD28 00 *Marisa Sanae]
+[text 0000BE0C *Marisa Sanae]
 重力とか慣性とか
 全部無視してるぞ、ここ！？
-[2A 0x0000BF1C 00 Marisa *Sanae]
+[text 0000C000 Marisa *Sanae]
 ちょっと楽しそうね…
-[2A 0x0000C110 00 *Marisa Sanae]
+[text 0000C1F4 *Marisa Sanae]
 そっ、そか？
 ちょっと変わった場所だなーとか
-[2A 0x0000C304 00 *Marisa Sanae]
+[text 0000C3E8 *Marisa Sanae]
 思ってみたりはしてるけど
-[2A 0x0000C4F8 00 Marisa *Sanae]
+[text 0000C5DC Marisa *Sanae]
 はっ！　まさか…
-[2A 0x0000C6EC 00 Marisa *Sanae]
+[text 0000C7D0 Marisa *Sanae]
 やっぱり貴方
 ここをもっと散らかすつもり！？
-[2A 0x0000C8E0 00 *Marisa Sanae]
+[text 0000C9C4 *Marisa Sanae]
 さすがの私でも
 これ以上は散らかせねーよ！！
-[2A 0x0000CAD4 00 *Marisa Sanae]
+[text 0000CBB8 *Marisa Sanae]
 だから言ったろ！？
 探し物してるだけだって！
-[2A 0x0000CCC8 00 Marisa *Sanae]
+[text 0000CDAC Marisa *Sanae]
 きちんと片づけないから
 いざというとき無くし物をするんですよ！
-[2A 0x0000CEBC 00 *Marisa Sanae]
+[text 0000CFA0 *Marisa Sanae]
 お、お説教かよ！
 いつもはきちんと綺麗にしてるよっ！
-[2A 0x0000D0B0 00 Marisa *Sanae]
+[text 0000D194 Marisa *Sanae]
 ほんとですか？
-[2A 0x0000D2A4 00 *Marisa Sanae]
+[text 0000D388 *Marisa Sanae]
 露骨に疑ってる…！！
-[2A 0x0000D498 00 Marisa *Sanae]
+[text 0000D57C Marisa *Sanae]
 今日はこの後料理もありますから
 私忙しいんです
-[2A 0x0000D68C 00 Marisa *Sanae]
+[text 0000D770 Marisa *Sanae]
 手伝いますから
 さっさと見つけちゃいましょう
-[2A 0x0000D880 00 *Marisa Sanae]
+[text 0000D964 *Marisa Sanae]
 ちっ…こんなお節介がついてきたら
 お宝探しどころじゃないぜ…
-[2A 0x0000DA74 00 *Marisa Sanae]
+[text 0000DB58 *Marisa Sanae]
 悪いけど…
 ここは強行突破させてもらうぜ！
-[2A 0x0000DC68 00 Marisa *Sanae]
+[text 0000DD4C Marisa *Sanae]
 え！？　ちょ、ちょっと…！
 いきなり…どういうつもりですか！？
-[2A 0x0000DE5C 00 *Marisa Sanae]
+[text 0000DF40 *Marisa Sanae]
 どーもこーもないぜ！
 すべては強くなるためだ！
-[2A 0x0000E050 00 Marisa *Sanae]
+[text 0000E134 Marisa *Sanae]
 意味不明です！
-[2A 0x0000E244 00 Marisa *Sanae]
+[text 0000E328 Marisa *Sanae]
 戦いでもっと散らかしちゃっても
 その責任は
-[2A 0x0000E438 00 Marisa *Sanae]
+[text 0000E51C Marisa *Sanae]
 とってもらいますからね！
-[28 0x0000EAFC 00 Marisa *Sanae]
+[text 0000EBF4 Marisa *Sanae]
 せっかく、せっかく綺麗にしたのに！
 もうっ滅茶苦茶です！
-[2A 0x0000ED04 00 *Marisa Sanae]
+[text 0000EDE8 *Marisa Sanae]
 悪いけど、私の勝ちだ。
 力の差だな♪
-[2A 0x0000EEF8 00 Marisa *Sanae]
+[text 0000EFDC Marisa *Sanae]
 今日は素敵な一日になるって
 咲夜さんもあんなにはりきって
-[2A 0x0000F0EC 00 Marisa *Sanae]
+[text 0000F1D0 Marisa *Sanae]
 私も料理の手伝いするって
 用意していたのに…
-[2A 0x0000F2E0 00 *Marisa Sanae]
+[text 0000F3C4 *Marisa Sanae]
 お前…えっ？
 泣いてんのか！？
-[2A 0x0000F4D4 00 Marisa *Sanae]
+[text 0000F5B8 Marisa *Sanae]
 いいえ！
-[2A 0x0000F6C8 00 *Marisa Sanae]
+[text 0000F7AC *Marisa Sanae]
 いじけてんのか？
-[2A 0x0000F8BC 00 Marisa *Sanae]
+[text 0000F9A0 Marisa *Sanae]
 いじけてなどいません
-[2A 0x0000FAB0 00 Marisa *Sanae]
+[text 0000FB94 Marisa *Sanae]
 ハラワタが軽ーく
 煮えくり返っているだけです
-[2A 0x0000FCA4 00 *Marisa Sanae]
+[text 0000FD88 *Marisa Sanae]
 ふつーは軽ーく煮えくり返るもの
 じゃないだろ！？
-[2A 0x0000FE98 00 *Marisa Sanae]
+[text 0000FF7C *Marisa Sanae]
 悪かったよ。
 …でもこればっかは譲れなくってさ
-[2A 0x0001008C 00 Marisa *Sanae]
+[text 00010170 Marisa *Sanae]
 出てって下さい！
-[2A 0x00010280 00 *Marisa Sanae]
+[text 00010364 *Marisa Sanae]
 ご、ごめんって！
-[2A 0x00010474 00 Marisa *Sanae]
+[text 00010558 Marisa *Sanae]
 一から掃除のやり直しです。
 もうこれ以上絶対邪魔しないで下さい！
-[2A 0x00010668 00 *Marisa Sanae]
+[text 0001074C *Marisa Sanae]
 わかったよ、謝ってるだろ！
-[2A 0x0001085C 00 Marisa *Sanae]
+[text 00010940 Marisa *Sanae]
 また後で！
 ごきげんよう！
-[2A 0x00010B1C 00 *Marisa Sanae]
+[text 00010C00 *Marisa Sanae]
 怒りながら
 行っちゃったか…
-[2A 0x00010D10 00 *Marisa Sanae]
+[text 00010DF4 *Marisa Sanae]
 しっかし、早苗のやつ何はりきってんだ？
-[2A 0x00010F04 00 *Marisa Sanae]
+[text 00010FE8 *Marisa Sanae]
 もともとおかしな奴らだけど
 ここんところみんなおかしくないか…？
-[28 0x00011544 02 *Marisa]
+[text 000115E4 *Marisa]
 お宝といえば…
-[2A 0x000116F4 02 *Marisa]
+[text 00011778 *Marisa]
 やっぱりここ…だよな！
-[2A 0x00011888 02 *Marisa]
+[text 0001190C *Marisa]
 あいつが起きてくる前に
 とっとと探させてもらおっと！
-[2A 0x00011A1C 02 *Marisa]
+[text 00011AA0 *Marisa]
 うーん…
 なんか忘れてるような気がするけど
-[2A 0x00011BB0 02 *Marisa]
+[text 00011C34 *Marisa]
 霊夢に
 関係あったような気もするけど…
-[2A 0x00011D44 02 *Marisa]
+[text 00011DC8 *Marisa]
 ま、いっか！
 思いだしてから考えよっと
-[28 0x000123A8 02 *Marisa]
+[text 00012448 *Marisa]
 それにしても陰気な場所だな…
-[2A 0x00012558 02 *Marisa]
+[text 000125DC *Marisa]
 いつ来たって気が滅入る…
-[2A 0x000126EC 02 *Marisa]
+[text 00012770 *Marisa]
 でもお宝があるから
 幸せなんだけどなっ！
-[2A 0x00012880 02 *Marisa]
-
-[2A 0x00012A6C 00 *Marisa Patch]
+[text 0001295C *Patch]
+嫌なら来なければいいのに…
+招かれざる客ほど礼儀知らずなもの…
+[text 00012B50 *Marisa Patch]
 相変わらず薄暗いとこで蠢いてんだな
-[2A 0x00012C60 00 Marisa *Patch]
+[text 00012D44 Marisa *Patch]
 ずいぶんな言葉ね…。
 貴方こそいつもこそこそ恥ずかしくない？
-[2A 0x00012E54 00 *Marisa Patch]
+[text 00012F38 *Marisa Patch]
 全然！　お前はいつもお見通しだろ？
 私が何やってんのかぐらいさ
-[2A 0x00013048 00 Marisa *Patch]
+[text 0001312C Marisa *Patch]
 もちろんよ
 …好き勝手はさせない
-[2A 0x0001323C 00 *Marisa Patch]
+[text 00013320 *Marisa Patch]
 さあ、どうだろーな…。
 止められるもんならやってみろ
-[2A 0x00013430 00 Marisa *Patch]
+[text 00013514 Marisa *Patch]
 今まで…少し寛容すぎたのかしら？
 私は子どもには優しいほうだから…
-[2A 0x00013624 00 *Marisa Patch]
+[text 00013708 *Marisa Patch]
 お子様扱いかよ
-[2A 0x00013818 00 Marisa *Patch]
+[text 000138FC Marisa *Patch]
 そろそろ…きちんと
 躾けてあげないといけないようね
-[28 0x00013EDC 00 *Marisa Patch]
+[text 00013FD4 *Marisa Patch]
 子どもは怖いぜ。
 大人の理屈は通らないからな
-[2A 0x000140E4 00 Marisa *Patch]
+[text 000141C8 Marisa *Patch]
 忘れてたわ…
 愚かさは予測を超える強敵だってこと
-[2A 0x000142D8 00 *Marisa Patch]
+[text 000143BC *Marisa Patch]
 すんごい嫌味だなおい…
-[2A 0x000144CC 00 Marisa *Patch]
+[text 000145B0 Marisa *Patch]
 …それで？
 貴方の御所望のものは何？
-[2A 0x000146C0 00 *Marisa Patch]
+[text 000147A4 *Marisa Patch]
 魔術を高めるお宝だ！
-[2A 0x000148B4 00 Marisa *Patch]
+[text 00014998 Marisa *Patch]
 それって…
 どんなものなの？
-[2A 0x00014AA8 00 *Marisa Patch]
+[text 00014B8C *Marisa Patch]
 どんな……どんな？
 どんなお宝なんだっけ？
-[2A 0x00014C9C 00 Marisa *Patch]
+[text 00014D80 Marisa *Patch]
 調べてないの？
 …本当に子どもって怖い…
-[2A 0x00014E90 00 *Marisa Patch]
+[text 00014F74 *Marisa Patch]
 まあ…その…なんだ、
 若さゆえの過ち、かな
-[2A 0x00015084 00 Marisa *Patch]
+[text 00015168 Marisa *Patch]
 …子どもだって認めちゃうわけね
-[2A 0x00015278 00 *Marisa Patch]
+[text 0001535C *Marisa Patch]
 それより、お前なんか知ってるんだろ？
 お宝も、今日の紅い霧のこともさ
-[2A 0x0001546C 00 Marisa *Patch]
+[text 00015550 Marisa *Patch]
 知ってても教えてあげない。
 それに…
-[2A 0x00015660 00 Marisa *Patch]
+[text 00015744 Marisa *Patch]
 ここにどんなアイテムがあるか
-[2A 0x00015854 00 Marisa *Patch]
+[text 00015938 Marisa *Patch]
 貴方はもう十分探し尽くして
 識ってるでしょ？
-[2A 0x00015A48 00 *Marisa Patch]
+[text 00015B2C *Marisa Patch]
 ま、そりゃそうだけど…
-[2A 0x00015C3C 00 *Marisa Patch]
+[text 00015D20 *Marisa Patch]
 教えてくれたっていいだろ
 このどケチ
-[2A 0x00015E30 00 Marisa *Patch]
+[text 00015F14 Marisa *Patch]
 もういいかしら？
 読書を続けたいのだけど
-[2A 0x00016024 00 *Marisa Patch]
+[text 00016108 *Marisa Patch]
 ああ。わかったよ。
 邪魔したぜ。じゃあまたな！
-[2A 0x000162E4 02 *Patch]
+[text 00016368 *Patch]
 …また…招くつもりはないんだけど
-[2A 0x00016478 02 *Patch]
+[text 000164FC *Patch]
 ふう…
 きっとまた来るんでしょうね…
-[28 0x00016A58 02 *Marisa]
+[text 00016AF8 *Marisa]
 お宝お宝…
-[2A 0x00016C08 02 *Marisa]
+[text 00016C8C *Marisa]
 なっかなか見つかんないよなー
-[2A 0x00016D9C 02 *Marisa]
+[text 00016E20 *Marisa]
 パチュリーんとこにないとすると
 一体どこに隠されてるんだ？
-[2A 0x00016F30 02 *Marisa]
+[text 00016FB4 *Marisa]
 いやいやその前に…
-[2A 0x000170C4 02 *Marisa]
+[text 00017148 *Marisa]
 どんなお宝なんだろ…
-[28 0x00017728 02 *Marisa]
+[text 000177C8 *Marisa]
 どーすりゃいいんだ…
-[2A 0x000178D8 02 *Marisa]
+[text 0001795C *Marisa]
 そもそも形のわからないもの
 どうやって見つけるんだ！？
-[2A 0x00017A6C 02 *Marisa]
-l
-[2A 0x00017C7C 00 *Marisa Nitori]
+[text 00017B6C *Nitori]
+またまた見切り発車かい？
+[text 00017D60 *Marisa Nitori]
 そうかもな。
 スピードを重視して確認を怠ったかも
-[2A 0x00017E70 00 Marisa *Nitori]
+[text 00017F54 Marisa *Nitori]
 ポジな「だろう」じゃなくて、
 ネガな「かもしれない」でやらないと！
-[2A 0x00018064 00 *Marisa Nitori]
+[text 00018148 *Marisa Nitori]
 ってか基本
 ポジティブな性格だからなぁ…
-[2A 0x00018258 00 *Marisa Nitori]
+[text 0001833C *Marisa Nitori]
 ってお前！
 独り言に参加してくるな！
-[2A 0x0001844C 00 Marisa *Nitori]
+[text 00018530 Marisa *Nitori]
 さっすが盟友！
 乗りツッコミも上手だねぇ！
-[2A 0x00018640 00 *Marisa Nitori]
+[text 00018724 *Marisa Nitori]
 にとり……！
 お前まで何でここにいるんだよ！？
-[2A 0x00018834 00 Marisa *Nitori]
+[text 00018918 Marisa *Nitori]
 きゅうり。
 いっぱい貰っちゃった
-[2A 0x00018A28 00 Marisa *Nitori]
+[text 00018B0C Marisa *Nitori]
 食べる？
-[2A 0x00018C1C 00 *Marisa Nitori]
+[text 00018D00 *Marisa Nitori]
 …遠慮しとく。
 あと、質問に質問で答えるな
-[2A 0x00018E10 00 Marisa *Nitori]
+[text 00018EF4 Marisa *Nitori]
 美味しいのにぃ。
 あと、今日は面白いことあるらしいぞ
-[2A 0x00019004 00 Marisa *Nitori]
+[text 000190E8 Marisa *Nitori]
 きゅうりもあるから
 って言われて来たんだ
-[2A 0x000191F8 00 Marisa *Nitori]
+[text 000192DC Marisa *Nitori]
 でもココに閉じ込められちゃってさ。
 もしかして盟友もそうか！？
-[2A 0x000193EC 00 *Marisa Nitori]
+[text 000194D0 *Marisa Nitori]
 きゅうりに釣られんのはお前
 だ・け・だ！
-[2A 0x000195E0 00 *Marisa Nitori]
+[text 000196C4 *Marisa Nitori]
 で、面白いことってのは何だ！？
-[2A 0x000197D4 00 *Marisa Nitori]
+[text 000198B8 *Marisa Nitori]
 この紅い霧の異変のことか？
 それとも…お宝のことか？
-[2A 0x000199C8 00 Marisa *Nitori]
+[text 00019AAC Marisa *Nitori]
 むぐむぐむぐ…お宝？
-[2A 0x00019BBC 00 *Marisa Nitori]
+[text 00019CA0 *Marisa Nitori]
 あっ！　さてはっ
 もしかして…お前の発明か！？
-[2A 0x00019DB0 00 *Marisa Nitori]
+[text 00019E94 *Marisa Nitori]
 お宝ってお前の発明した何かなのか！？
-[2A 0x00019FA4 00 Marisa *Nitori]
+[text 0001A088 Marisa *Nitori]
 むぐむぐむぐ…？
-[2A 0x0001A198 00 *Marisa Nitori]
+[text 0001A27C *Marisa Nitori]
 食ってんなよ！
-[2A 0x0001A38C 00 Marisa *Nitori]
+[text 0001A470 Marisa *Nitori]
 むぐむぐ…
 私の空前の大発明が何かな？
-[2A 0x0001A580 00 *Marisa Nitori]
+[text 0001A664 *Marisa Nitori]
 やっぱそうなのか！？
 だったら…それはいただいてくぜ！！
-[2A 0x0001A774 00 Marisa *Nitori]
+[text 0001A858 Marisa *Nitori]
 わ、わわわ…
 何をする気だっ盟友！
-[2A 0x0001A968 00 *Marisa Nitori]
+[text 0001AA4C *Marisa Nitori]
 問答無用！！　よこしやがれ！！
-[2A 0x0001AB5C 00 Marisa *Nitori]
+[text 0001AC40 Marisa *Nitori]
 もう怒ったんだからな！
-[2A 0x0001AD50 00 Marisa *Nitori]
+[text 0001AE34 Marisa *Nitori]
 私の発明を盗もうなんて！
 もごごっ！
-[2A 0x0001AF44 00 Marisa *Nitori]
+[text 0001B028 Marisa *Nitori]
 ぜーったいに許さないぞ！
-[2A 0x0001B138 00 *Marisa Nitori]
+[text 0001B21C *Marisa Nitori]
 きゅうり食べながら言うな！
-[2A 0x0001B32C 00 *Marisa Nitori]
+[text 0001B410 *Marisa Nitori]
 悪い…けど、強くなるために
 手段は選んでられないんだ！
-[2A 0x0001B520 00 Marisa *Nitori]
+[text 0001B604 Marisa *Nitori]
 勝手な奴だ！
 勝手な人間なんかだーいきらいだ！
-[28 0x0001BBE4 00 Marisa *Nitori]
+[text 0001BCDC Marisa *Nitori]
 きゅ、きゅうりが…
 大事なきゅうりがこなごな…
-[2A 0x0001BDEC 00 *Marisa Nitori]
+[text 0001BED0 *Marisa Nitori]
 さあ、渡してもらうぜ
-[2A 0x0001BFE0 00 Marisa *Nitori]
+[text 0001C0C4 Marisa *Nitori]
 渡すも何も
 きゅうりはもうこなごなだぁ！
-[2A 0x0001C1D4 00 *Marisa Nitori]
+[text 0001C2B8 *Marisa Nitori]
 きゅうりじゃない！！　発明品だ！
-[2A 0x0001C3C8 00 Marisa *Nitori]
+[text 0001C4AC Marisa *Nitori]
 持ってけ！
 もうこんなもの今は役に立たない！
-[2A 0x0001C5BC 00 *Marisa Nitori]
+[text 0001C6A0 *Marisa Nitori]
 やったぁ、ついに手に入れたぞ。
 こっ、これかぁ!
-[2A 0x0001C7B0 00 *Marisa Nitori]
+[text 0001C894 *Marisa Nitori]
 …………はへ？
 これ…これって何だ？
-[2A 0x0001C9A4 00 Marisa *Nitori]
+[text 0001CA88 Marisa *Nitori]
 大切なきゅうりを守る
 「携帯胡瓜貯蔵庫」！
-[2A 0x0001CB98 00 Marisa *Nitori]
+[text 0001CC7C Marisa *Nitori]
 その名も
 「スマート庫」だっ!
-[2A 0x0001CD8C 00 *Marisa Nitori]
+[text 0001CE70 *Marisa Nitori]
 いらねえぇ！
-[2A 0x0001CF80 00 Marisa *Nitori]
+[text 0001D064 Marisa *Nitori]
 何だとぉ！
-[2A 0x0001D174 00 Marisa *Nitori]
+[text 0001D258 Marisa *Nitori]
 適度な温度、湿度、光で
 完全に管理！
-[2A 0x0001D368 00 Marisa *Nitori]
+[text 0001D44C Marisa *Nitori]
 これでいつでもどこでも
 新鮮なきゅうりだぞ！
-[2A 0x0001D55C 00 *Marisa Nitori]
+[text 0001D640 *Marisa Nitori]
 …返す。
 お前に期待したのが悪かった
-[2A 0x0001D750 00 Marisa *Nitori]
+[text 0001D834 Marisa *Nitori]
 え？　あ…返してくれるのか？
-[2A 0x0001D944 00 *Marisa Nitori]
+[text 0001DA28 *Marisa Nitori]
 じゃあなっ
-[2A 0x0001DBE0 02 *Nitori]
+[text 0001DC64 *Nitori]
 え、ちょっとどこ行くんだ盟友！
-[2A 0x0001DD74 02 *Nitori]
+[text 0001DDF8 *Nitori]
 きゅうり、きゅうりを弁償しろおおお！
-[28 0x0001DFD4 01 *Marisa]
+[text 0001E050 *Marisa]
 今日は何なんだ…？
 早苗ににとりまで…
-[2A 0x0001E160 02 *Marisa]
+[text 0001E1E4 *Marisa]
 なんだか嫌な予感がするな
-[2A 0x0001E2F4 02 *Marisa]
+[text 0001E378 *Marisa]
 って言っても
 お宝を諦めるなんてしない
-[2A 0x0001E488 02 *Marisa]
+[text 0001E50C *Marisa]
 このまま
 突き進むのみだっ！
-[28 0x0001EA68 02 *Marisa]
+[text 0001EB08 *Marisa]
 ずいぶん奥まで進んだはずだけど…
 空間をいじりすぎだろ…あいつ
-[2A 0x0001EC18 02 *Marisa]
+[text 0001EC9C *Marisa]
 おかげで迷いまくりだぜ…
 ここは一体どこなんだ？
-[2A 0x0001EDAC 02 *Marisa]
+[text 0001EE30 *Marisa]
 あと、何か忘れてるって件は
 いったいなんだったっけ？
-[28 0x0001F410 02 *Marisa]
+[text 0001F4B0 *Marisa]
 はぁ…なんか疲れたな
-[2A 0x0001F5C0 02 *Marisa]
+[text 0001F644 *Marisa]
 よく考えたらごはんも
 おやつも食べそこねてるし…
-[2A 0x0001F754 02 *Marisa]
+[text 0001F7D8 *Marisa]
 こんなときは
 あったかい紅茶がいいよな…
-[2A 0x0001F8E8 02 *Marisa]
+[text 0001F96C *Marisa]
 砂糖はみっつ
 ミルクたっぷりで甘々の…
-[2A 0x0001FA7C 02 *Marisa]
+[text 0001FB00 *Marisa]
 じゅ、じゅるり…
-[2A 0x0001FC10 02 *Marisa]
-l
-[2A 0x0001FE20 00 *Marisa Sakuya]
+[text 0001FD10 *Sakuya]
+口元…きらきらしてるわよ
+[text 0001FF04 *Marisa Sakuya]
 あっと失礼！
-[2A 0x00020014 00 Marisa *Sakuya]
+[text 000200F8 Marisa *Sakuya]
 それで、何の用なの？
-[2A 0x00020208 00 *Marisa Sakuya]
+[text 000202EC *Marisa Sakuya]
 おーちょうどいいところに！
-[2A 0x000203FC 00 *Marisa Sakuya]
+[text 000204E0 *Marisa Sakuya]
 紅茶いれてくれよ。
 一息つきたいところだったんだ
-[2A 0x000205F0 00 Marisa *Sakuya]
+[text 000206D4 Marisa *Sakuya]
 お断り
-[2A 0x000207E4 00 *Marisa Sakuya]
+[text 000208C8 *Marisa Sakuya]
 お客様はもてなすもんだぜ？
 紅茶の一杯ぐらいいいじゃないか
-[2A 0x000209D8 00 Marisa *Sakuya]
+[text 00020ABC Marisa *Sakuya]
 私はこの館のメイドだけど
 貴方は私の主人ではない
-[2A 0x00020BCC 00 *Marisa Sakuya]
+[text 00020CB0 *Marisa Sakuya]
 主人っていえば、お前の大事な
 ご主人様はどーしてるんだよ！？
-[2A 0x00020DC0 00 *Marisa Sakuya]
+[text 00020EA4 *Marisa Sakuya]
 なんかこの館の周辺が
 妙なのはあいつのせいだろ？
-[2A 0x00020FB4 00 Marisa *Sakuya]
+[text 00021098 Marisa *Sakuya]
 お嬢様は
 奥のお部屋でおやすみよ
-[2A 0x000211A8 00 Marisa *Sakuya]
+[text 0002128C Marisa *Sakuya]
 それよりも魔理沙、答えなさい
-[2A 0x0002139C 00 Marisa *Sakuya]
+[text 00021480 Marisa *Sakuya]
 館をうろつく
 不審者の報を受けたのだけど？
-[2A 0x00021590 00 Marisa *Sakuya]
+[text 00021674 Marisa *Sakuya]
 それって
 貴方なのかしら…？
-[2A 0x00021784 00 *Marisa Sakuya]
+[text 00021868 *Marisa Sakuya]
 かもな。
 だったらどうする気なんだ？
-[2A 0x00021978 00 Marisa *Sakuya]
+[text 00021A5C Marisa *Sakuya]
 決まっている
-[2A 0x00021B6C 00 Marisa *Sakuya]
+[text 00021C50 Marisa *Sakuya]
 秩序を保つのがメイドの仕事…
 ここで片付けてあげるわ！
-[28 0x00022230 00 *Marisa Sakuya]
+[text 00022328 *Marisa Sakuya]
 どいつもこいつも口ばっかりだぜ
 この館の連中は！
-[2A 0x00022438 00 Marisa *Sakuya]
+[text 0002251C Marisa *Sakuya]
 …膝をついた私をどれほど
 罵ろうと構わないけど
-[2A 0x0002262C 00 Marisa *Sakuya]
+[text 00022710 Marisa *Sakuya]
 あの方を悪く言うのは許しません
-[2A 0x00022820 00 *Marisa Sakuya]
+[text 00022904 *Marisa Sakuya]
 許さなければどうするんだよ？
 その有り様で
-[2A 0x00022A14 00 Marisa *Sakuya]
+[text 00022AF8 Marisa *Sakuya]
 …あなたの恥ずかしい秘密を暴露する
-[2A 0x00022C08 00 *Marisa Sakuya]
+[text 00022CEC *Marisa Sakuya]
 そ、そんなもん
 しらねーだろ？
-[2A 0x00022DFC 00 Marisa *Sakuya]
+[text 00022EE0 Marisa *Sakuya]
 うふふふふ…
-[2A 0x00022FF0 00 *Marisa Sakuya]
+[text 000230D4 *Marisa Sakuya]
 な、なんなんだよ！
 ないよっ、何もないからなっ！
-[2A 0x000231E4 00 Marisa *Sakuya]
+[text 000232C8 Marisa *Sakuya]
 その歳になって
 何もないことも恥ずかしいのよ
-[2A 0x000233D8 00 *Marisa Sakuya]
+[text 000234BC *Marisa Sakuya]
 ひっ、ひでえ…
 何も知らないんじゃないか！
-[2A 0x000235CC 00 Marisa *Sakuya]
+[text 000236B0 Marisa *Sakuya]
 さて、ね？
-[2A 0x000237C0 00 Marisa *Sakuya]
+[text 000238A4 Marisa *Sakuya]
 魔理沙、あなたは
 この先に進みたいの？
-[2A 0x000239B4 00 Marisa *Sakuya]
+[text 00023A98 Marisa *Sakuya]
 お嬢様のところへ…
-[2A 0x00023BA8 00 *Marisa Sakuya]
+[text 00023C8C *Marisa Sakuya]
 心配するな。
 無益な殺生はしないぜ
-[2A 0x00023D9C 00 *Marisa Sakuya]
+[text 00023E80 *Marisa Sakuya]
 私が探してるのはお宝だ
-[2A 0x00023F90 00 *Marisa Sakuya]
+[text 00024074 *Marisa Sakuya]
 まああいつが
 大人しくしてるなら…だけどな
-[2A 0x00024184 00 Marisa *Sakuya]
+[text 00024268 Marisa *Sakuya]
 あの方を侮れば
 必ず苦杯をなめることになるわ
-[2A 0x00024378 00 *Marisa Sakuya]
+[text 0002445C *Marisa Sakuya]
 ご進言
 ありがたくちょうだいするよ
-[2A 0x0002456C 00 *Marisa Sakuya]
+[text 00024650 *Marisa Sakuya]
 じゃあ、またなっ。
 次はお前の紅茶でまったりさせてくれよ
-[2A 0x00024760 00 Marisa *Sakuya]
+[text 00024844 Marisa *Sakuya]
 ふうん…用意はあるけれど
-[2A 0x00024954 00 *Marisa Sakuya]
+[text 00024A38 *Marisa Sakuya]
 えっ！？
-[2A 0x00024B48 00 *Marisa Sakuya]
+[text 00024C2C *Marisa Sakuya]
 じゃあ、最初から
 ごちそうしてくれればいいのに
-[2A 0x00024D3C 00 Marisa *Sakuya]
+[text 00024E20 Marisa *Sakuya]
 来るのが早すぎたのよ
-[2A 0x00024F30 00 *Marisa Sakuya]
+[text 00025014 *Marisa Sakuya]
 そっか？
-[2A 0x00025124 00 Marisa *Sakuya]
+[text 00025208 Marisa *Sakuya]
 ええ。
 では、私は支度があるから…
-[2A 0x00025318 00 Marisa *Sakuya]
+[text 000253FC Marisa *Sakuya]
 くれぐれも用心することね
-[2A 0x0002550C 00 Marisa *Sakuya]
+[text 000255F0 Marisa *Sakuya]
 そして、心置きなくお嬢様に
 ぎったんぎったんにされなさい♪
-[2A 0x00025700 00 *Marisa Sakuya]
+[text 000257E4 *Marisa Sakuya]
 今日一番の笑顔で言われたよっ！
-[2A 0x000258F4 00 *Marisa Sakuya]
+[text 000259D8 *Marisa Sakuya]
 また後でなっ！
-[28 0x00025FB8 00 *Marisa Sakuya]
+[text 000260B0 *Marisa Sakuya]
 まったく…これがこの館の
 お客様に対するもてなしなのか？
-[2A 0x000261C0 00 Marisa *Sakuya]
+[text 000262A4 Marisa *Sakuya]
 いつもこんな感じよ
-[2A 0x000263B4 00 *Marisa Sakuya]
+[text 00026498 *Marisa Sakuya]
 おいっ！
-[2A 0x000265A8 00 Marisa *Sakuya]
+[text 0002668C Marisa *Sakuya]
 私相手では不服だったかしら？
 まだまだ元気が余ってるみたいね
-[2A 0x0002679C 00 Marisa *Sakuya]
+[text 00026880 Marisa *Sakuya]
 私より強い相手を望むなら
 ここで慢心せず、術をみがきなさい
-[2A 0x00026990 00 *Marisa Sakuya]
+[text 00026A74 *Marisa Sakuya]
 しれっと…お説教！？
-[2A 0x00026B84 00 *Marisa Sakuya]
+[text 00026C68 *Marisa Sakuya]
 ったく負けた奴が言うことかよ
-[2A 0x00026D78 00 Marisa *Sakuya]
+[text 00026E5C Marisa *Sakuya]
 探しもの…見つかるといいわね。
 もっと強くなれるように
-[2A 0x00026F6C 00 *Marisa Sakuya]
+[text 00027050 *Marisa Sakuya]
 上から目線かよ！
-[2A 0x00027160 00 *Marisa Sakuya]
+[text 00027244 *Marisa Sakuya]
 …こうなったらもっかい
 館中探しまわってやるぜ！
-[2A 0x00027354 00 *Marisa Sakuya]
+[text 00027438 *Marisa Sakuya]
 覚悟しろよ！
-[2A 0x00027548 00 Marisa *Sakuya]
+[text 0002762C Marisa *Sakuya]
 ええ…。
 首が落ちていたらひろってね
-[2A 0x0002773C 00 Marisa *Sakuya]
+[text 00027820 Marisa *Sakuya]
 いつまでも片付かないから
-[2A 0x00027930 00 *Marisa Sakuya]
+[text 00027A14 *Marisa Sakuya]
 断るっ！
 じゃあなっ！
-[2A 0x00027BF0 02 *Sakuya]
+[text 00027C74 *Sakuya]
 行ってしまったみたいね
-[2A 0x00027D84 02 *Sakuya]
+[text 00027E08 *Sakuya]
 この先に進ませるには
 まだまだあなたの力は足りない
-[2A 0x00027F18 02 *Sakuya]
+[text 00027F9C *Sakuya]
 そのことに
 まずは気づきなさい魔理沙…
-[28 0x000284F8 02 *Marisa]
+[text 00028598 *Marisa]
 まーたこの空間か…
-[2A 0x000286A8 02 *Marisa]
+[text 0002872C *Marisa]
 こんなとこにお宝あるわけないし…
-[2A 0x0002883C 02 *Marisa]
+[text 000288C0 *Marisa]
 でも、お宝はいつも意外な場所で
 見つかるってのも定番だよな！！
-[2A 0x000289D0 02 *Marisa]
+[text 00028A54 *Marisa]
 さーて
 はりきって進んでみるかー
-[28 0x00029034 02 *Marisa]
+[text 000290D4 *Marisa]
 なかなか見つかんねーし
-[2A 0x000291E4 02 *Marisa]
+[text 00029268 *Marisa]
 こうなったら手当たり次第
 あれもこれも調べていくしかない！
-[2A 0x00029378 02 *Marisa]
+[text 000293FC *Marisa]
 これは…瓢箪？
-[2A 0x0002950C 02 *Marisa]
+[text 00029590 *Marisa]
 これは…傘だ。
-[2A 0x000296A0 02 *Marisa]
+[text 00029724 *Marisa]
 こっちは…盃？
-[2A 0x00029834 02 *Marisa]
+[text 000298B8 *Marisa]
 そっちの…うわああっ
-[2A 0x000299C8 02 *Marisa]
+[text 00029A4C *Marisa]
 柔らかいあったかいびよーんとのびるっ
 何これ…うわああああ
-[2A 0x00029B5C 02 *Marisa]
+[text 00029BE0 *Marisa]
 あ、あれ？　猫！？
-[2A 0x00029CF0 02 *Marisa]
+[text 00029D74 *Marisa]
 でっかい猫…猫妖怪か？
 赤毛に黒の斑点柄…
-[2A 0x00029E84 02 *Marisa]
-l
-[2A 0x0002A094 00 *Marisa Satori]
+[text 00029F84 *Satori]
+あら、見つけてくれたの？
+[text 0002A178 *Marisa Satori]
 さとり！？
-[2A 0x0002A288 00 *Marisa Satori]
+[text 0002A36C *Marisa Satori]
 お前まで
 紅魔館に招待されてたのか？
-[2A 0x0002A47C 00 Marisa *Satori]
+[text 0002A560 Marisa *Satori]
 ええ。招待されたのだけれど
 閉じ込められしまって
-[2A 0x0002A670 00 Marisa *Satori]
+[text 0002A754 Marisa *Satori]
 貴方は違うの？
-[2A 0x0002A864 00 *Marisa Satori]
+[text 0002A948 *Marisa Satori]
 私はお宝を探しにきたんだ
-[2A 0x0002AA58 00 *Marisa Satori]
+[text 0002AB3C *Marisa Satori]
 って、ここから
 出られなくなってたのか！？
-[2A 0x0002AC4C 00 Marisa *Satori]
+[text 0002AD30 Marisa *Satori]
 気づいてなかったんだ
-[2A 0x0002AE40 00 *Marisa Satori]
+[text 0002AF24 *Marisa Satori]
 うん、まったく
-[2A 0x0002B034 00 Marisa *Satori]
+[text 0002B118 Marisa *Satori]
 はあ…ある意味すごい…
-[2A 0x0002B228 00 *Marisa Satori]
+[text 0002B30C *Marisa Satori]
 へへん♪
-[2A 0x0002B41C 00 Marisa *Satori]
+[text 0002B500 Marisa *Satori]
 すごく
 喜んでくれているみたいだけど…
-[2A 0x0002B610 00 Marisa *Satori]
+[text 0002B6F4 Marisa *Satori]
 まったくほめていないから…
-[2A 0x0002B804 00 Marisa *Satori]
+[text 0002B8E8 Marisa *Satori]
 でも…ありがとう
-[2A 0x0002B9F8 00 *Marisa Satori]
+[text 0002BADC *Marisa Satori]
 へ？
-[2A 0x0002BBEC 00 Marisa *Satori]
+[text 0002BCD0 Marisa *Satori]
 その子を
 こちらに渡してください…
-[2A 0x0002BDE0 00 *Marisa Satori]
+[text 0002BEC4 *Marisa Satori]
 …ちょい待て。
 お前、これを探してたのか？
-[2A 0x0002BFD4 00 Marisa *Satori]
+[text 0002C0B8 Marisa *Satori]
 ええ…
-[2A 0x0002C1C8 00 Marisa *Satori]
+[text 0002C2AC Marisa *Satori]
 ここへも一緒に来たの。
 同伴でも構わないと聞いたから
-[2A 0x0002C3BC 00 *Marisa Satori]
+[text 0002C4A0 *Marisa Satori]
 同伴…
-[2A 0x0002C5B0 00 Marisa *Satori]
+[text 0002C694 Marisa *Satori]
 …いやらしいこと考えないでね
-[2A 0x0002C7A4 00 *Marisa Satori]
+[text 0002C888 *Marisa Satori]
 考えてねーよ！
-[2A 0x0002C998 00 *Marisa Satori]
+[text 0002CA7C *Marisa Satori]
 ってか、人の心を
 読むんじゃねえ！
-[2A 0x0002CB8C 00 Marisa *Satori]
+[text 0002CC70 Marisa *Satori]
 …やだ…
-[2A 0x0002CD80 00 *Marisa Satori]
+[text 0002CE64 *Marisa Satori]
 うっ…！！
-[2A 0x0002CF74 00 *Marisa Satori]
+[text 0002D058 *Marisa Satori]
 バッ、バーカっ！
-[2A 0x0002D168 00 *Marisa Satori]
+[text 0002D24C *Marisa Satori]
 あっ…！？
-[2A 0x0002D35C 00 Marisa *Satori]
+[text 0002D440 Marisa *Satori]
 チルノと同じね…
-[2A 0x0002D550 00 *Marisa Satori]
+[text 0002D634 *Marisa Satori]
 そんなふうに人を
 哀れそうにみるな！
-[2A 0x0002D744 00 Marisa *Satori]
+[text 0002D828 Marisa *Satori]
 さあ…
 その仔を返してちょうだい
-[2A 0x0002D938 00 *Marisa Satori]
+[text 0002DA1C *Marisa Satori]
 いや…こいつは渡せない。
 ちょっと調べさせてもらうぜ
-[2A 0x0002DB2C 00 Marisa *Satori]
+[text 0002DC10 Marisa *Satori]
 調べる…？　何の話？
-[2A 0x0002DD20 00 *Marisa Satori]
+[text 0002DE04 *Marisa Satori]
 香霖に見せて確かめるだけだ。
 こいつが…お宝かもしれない
-[2A 0x0002DF14 00 Marisa *Satori]
+[text 0002DFF8 Marisa *Satori]
 宝？　そうよ、大切な宝物。
 返して
-[2A 0x0002E108 00 *Marisa Satori]
+[text 0002E1EC *Marisa Satori]
 駄目だ
-[2A 0x0002E2FC 00 Marisa *Satori]
+[text 0002E3E0 Marisa *Satori]
 …なぜ？　さあ、返して。
 こんなことで諍いは嫌なの
-[2A 0x0002E4F0 00 *Marisa Satori]
+[text 0002E5D4 *Marisa Satori]
 悪いけど、取り戻したかったら
 …力ずくでやるんだな！
-[2A 0x0002E6E4 00 Marisa *Satori]
+[text 0002E7C8 Marisa *Satori]
 …争いは好きじゃないのに…
-[2A 0x0002E8D8 00 *Marisa Satori]
+[text 0002E9BC *Marisa Satori]
 でも、やるんだろ？
-[2A 0x0002EACC 00 Marisa *Satori]
+[text 0002EBB0 Marisa *Satori]
 あなたと私は今…
-[2A 0x0002ECC0 00 Marisa *Satori]
+[text 0002EDA4 Marisa *Satori]
 同じ気持ちよ…！
-[28 0x0002F384 00 Marisa *Satori]
+[text 0002F47C Marisa *Satori]
 空腹なのにうんと張り切ったのね。
 あなたの…勝ち
-[2A 0x0002F58C 00 *Marisa Satori]
+[text 0002F670 *Marisa Satori]
 おい、読むなよ
-[2A 0x0002F780 00 Marisa *Satori]
+[text 0002F864 Marisa *Satori]
 読んでない。
 お腹の鳴る音が聞こえただけ
-[2A 0x0002F974 00 *Marisa Satori]
+[text 0002FA58 *Marisa Satori]
 聞くな！
-[2A 0x0002FB68 00 Marisa *Satori]
+[text 0002FC4C Marisa *Satori]
 それは無理よ。聞こえるんだもの
-[2A 0x0002FD5C 00 *Marisa Satori]
+[text 0002FE40 *Marisa Satori]
 こいつは連れていくぜ。
 香霖にお宝かどうか確かめてもらう
-[2A 0x0002FF50 00 Marisa *Satori]
+[text 00030034 Marisa *Satori]
 私の可愛いお燐が…宝？
-[2A 0x00030144 00 Marisa *Satori]
+[text 00030228 Marisa *Satori]
 それは私にとっては宝物だけど
 あなたにとっては違うでしょう？
-[2A 0x00030338 00 Marisa *Satori]
+[text 0003041C Marisa *Satori]
 今日ここへ一緒に来たのは
 お茶会に参加するためよ
-[2A 0x0003052C 00 *Marisa Satori]
+[text 00030610 *Marisa Satori]
 お茶会？
 そんなものあるのか…
-[2A 0x00030720 00 *Marisa Satori]
+[text 00030804 *Marisa Satori]
 あ、それより！
 じゃあこの妖怪は…？
-[2A 0x00030914 00 Marisa *Satori]
+[text 000309F8 Marisa *Satori]
 私の可愛い家族
-[2A 0x00030B08 00 *Marisa Satori]
+[text 00030BEC *Marisa Satori]
 …くそっ、まーたこんな展開か！
-[2A 0x00030CFC 00 Marisa *Satori]
+[text 00030DE0 Marisa *Satori]
 おいで…お燐
-[2A 0x00030EF0 00 Marisa *Satori]
+[text 00030FD4 Marisa *Satori]
 そんなに怒らないで。
 彼女が怯えるわ
-[2A 0x000310E4 00 *Marisa Satori]
+[text 000311C8 *Marisa Satori]
 ただのペットかよ！
-[2A 0x000312D8 00 Marisa *Satori]
+[text 000313BC Marisa *Satori]
 非道い…私には宝物よ
-[2A 0x000314CC 00 *Marisa Satori]
+[text 000315B0 *Marisa Satori]
 あー！
 また寄り道しちまったぜ！
-[2A 0x000316C0 00 *Marisa Satori]
+[text 000317A4 *Marisa Satori]
 こうなったら意地でも
 お宝は見つけ出してやる！
-[2A 0x000318B4 00 *Marisa Satori]
+[text 00031998 *Marisa Satori]
 それにしても…お茶会って？
 今日、紅魔館で何が起こってるんだ？
-[2A 0x00031AA8 00 Marisa *Satori]
+[text 00031B8C Marisa *Satori]
 さあ…私は手伝いに来ただけだから…
-[2A 0x00031C9C 00 Marisa *Satori]
+[text 00031D80 Marisa *Satori]
 自分の目で確かめてきたらどう？
-[2A 0x00031E90 00 *Marisa Satori]
+[text 00031F74 *Marisa Satori]
 言われなくてもそうするよっ！
 じゃあなっ！
-[2A 0x00032084 00 Marisa *Satori]
+[text 00032168 Marisa *Satori]
 ばいばーい…
-[2A 0x00032344 02 *Satori]
+[text 000323C8 *Satori]
 お燐、行っちゃったね
-[2A 0x000324D8 02 *Satori]
+[text 0003255C *Satori]
 うん…？
 がさつな子だったって？
-[2A 0x0003266C 02 *Satori]
+[text 000326F0 *Satori]
 見た目はそうよね…
 いつもバタバタしてて
-[2A 0x00032800 02 *Satori]
+[text 00032884 *Satori]
 ものへの執着もひどいし…
-[2A 0x00032994 02 *Satori]
+[text 00032A18 *Satori]
 でも心は透明なんだよ
-[2A 0x00032B28 02 *Satori]
+[text 00032BAC *Satori]
 読んでいるこっちが
 恥ずかしくなるくらい…
-[28 0x00033108 00 *Marisa Satori]
+[text 00033200 *Marisa Satori]
 この妖怪は貰ってくぜ
-[2A 0x00033310 00 Marisa *Satori]
+[text 000333F4 Marisa *Satori]
 なぜ？
 どうしてそんなに執着するの？
-[2A 0x00033504 00 *Marisa Satori]
+[text 000335E8 *Marisa Satori]
 ただの人間が強くなるには…
 生半可なことだけじゃ駄目なんだ
-[2A 0x000336F8 00 Marisa *Satori]
+[text 000337DC Marisa *Satori]
 そう…そんなにも
 強くなりたいのね…
-[2A 0x000338EC 00 Marisa *Satori]
+[text 000339D0 Marisa *Satori]
 可愛いくらい純粋…
-[2A 0x00033AE0 00 *Marisa Satori]
+[text 00033BC4 *Marisa Satori]
 じゅっ、純粋とか言うなよな！
 はっ、はずかしーだろーが…
-[2A 0x00033CD4 00 *Marisa Satori]
+[text 00033DB8 *Marisa Satori]
 話を戻すぞ！
 これが魔術を高めるお宝だとしたら…
-[2A 0x00033EC8 00 Marisa *Satori]
+[text 00033FAC Marisa *Satori]
 その子はただの妖怪。
 連れていくなら憑かれないようにね
-[2A 0x000340BC 00 *Marisa Satori]
+[text 000341A0 *Marisa Satori]
 憑くのか？
-[2A 0x000342B0 00 Marisa *Satori]
+[text 00034394 Marisa *Satori]
 憑くわ。妖怪だもの。
 ね、お燐？
-[2A 0x000344A4 00 Marisa *Satori]
+[text 00034588 Marisa *Satori]
 ほらおいで？
-[2A 0x00034698 00 Marisa *Satori]
+[text 0003477C Marisa *Satori]
 ふふ…あ、痛い…痛いわ
 噛まないで…痛っ…いたたた…
-[2A 0x0003488C 00 *Marisa Satori]
+[text 00034970 *Marisa Satori]
 …全っ然…懐いてないしっ！
-[2A 0x00034A80 00 *Marisa Satori]
+[text 00034B64 *Marisa Satori]
 うわあ……流血してるぞ。
 大丈夫か？？？
-[2A 0x00034C74 00 Marisa *Satori]
+[text 00034D58 Marisa *Satori]
 懐くから可愛いのではなくて
 可愛いから可愛いの
-[2A 0x00034E68 00 Marisa *Satori]
+[text 00034F4C Marisa *Satori]
 白々しい笑顔の応報より
 噛み付いてくる牙のほうが心地いいの
-[2A 0x0003505C 00 Marisa *Satori]
+[text 00035140 Marisa *Satori]
 だから貴方も可愛いかも
-[2A 0x00035250 00 *Marisa Satori]
+[text 00035334 *Marisa Satori]
 なっ……変なこと言うなっ！
 お宝じゃねえなら返すよっもう！
-[2A 0x00035444 00 *Marisa Satori]
+[text 00035528 *Marisa Satori]
 ほんとおかしな奴だな
-[2A 0x00035638 00 Marisa *Satori]
+[text 0003571C Marisa *Satori]
 うふふっ
-[2A 0x0003582C 00 Marisa *Satori]
+[text 00035910 Marisa *Satori]
 赤くなったりして貴方もおかしいわね
-[2A 0x00035A20 00 *Marisa Satori]
+[text 00035B04 *Marisa Satori]
 じゃあなっ
-[2A 0x00035C14 00 Marisa *Satori]
+[text 00035CF8 Marisa *Satori]
 はい、また後で…
-[2A 0x00035ED4 02 *Satori]
+[text 00035F58 *Satori]
 宝物、きっと見つかると思うわ…
-[2A 0x00036068 02 *Satori]
+[text 000360EC *Satori]
 でも、それはもっと先…
-[2A 0x000361FC 02 *Satori]
+[text 00036280 *Satori]
 いつになるかはあなた次第よ…
-[28 0x000367DC 02 *Marisa]
+[text 0003687C *Marisa]
 はあ…
-[2A 0x0003698C 02 *Marisa]
+[text 00036A10 *Marisa]
 霊夢の用事ってなんだったっけ？
-[2A 0x00036B20 02 *Marisa]
+[text 00036BA4 *Marisa]
 もう思い出そうって
 努力も虚しい感じだな！
-[2A 0x00036CB4 02 *Marisa]
+[text 00036D38 *Marisa]
 ここはすぱっと
 気持ちを切り替えてお宝に集中だ！
-[2A 0x00036E48 02 *Marisa]
+[text 00036ECC *Marisa]
 …？
-[2A 0x00036FDC 02 *Marisa]
+[text 00037060 *Marisa]
 …なんだこの匂い…
-[2A 0x00037170 02 *Marisa]
+[text 000371F4 *Marisa]
 鼻につく…錆びた感じ…
-[2A 0x00037304 02 *Marisa]
+[text 00037388 *Marisa]
 これは…血の匂い！？
-[28 0x00037968 00 *Marisa Remilia]
+[text 00037A60 *Marisa Remilia]
 とうとうお出ましかよ。
 お嬢様
-[2A 0x00037B70 00 *Marisa Remilia]
+[text 00037C54 *Marisa Remilia]
 普段はみかけない連中まで揃って
 今日は何の祭りだ？
-[2A 0x00037D64 00 Marisa *Remilia]
+[text 00037E48 Marisa *Remilia]
 祭りではない…。
 そうねあえて言うならお遊戯よ
-[2A 0x00037F58 00 *Marisa Remilia]
+[text 0003803C *Marisa Remilia]
 お遊戯かよ…
-[2A 0x0003814C 00 *Marisa Remilia]
+[text 00038230 *Marisa Remilia]
 レミリア、お前に用がある
-[2A 0x00038340 00 Marisa *Remilia]
+[text 00038424 Marisa *Remilia]
 終わらせはしない…
-[2A 0x00038534 00 *Marisa Remilia]
+[text 00038618 *Marisa Remilia]
 はあ？　いったい何を言って…
-[2A 0x00038728 00 Marisa *Remilia]
+[text 0003880C Marisa *Remilia]
 ずっとずっと
 ここで遊び続けるんだから
-[2A 0x0003891C 00 *Marisa Remilia]
+[text 00038A00 *Marisa Remilia]
 だから、何のことなんだよ…
-[2A 0x00038B10 00 *Marisa Remilia]
+[text 00038BF4 *Marisa Remilia]
 お遊戯会と何か関係あるのか？
-[2A 0x00038D04 00 Marisa *Remilia]
+[text 00038DE8 Marisa *Remilia]
 …人間。
 お前は気づいていないようだな
-[2A 0x00038EF8 00 Marisa *Remilia]
+[text 00038FDC Marisa *Remilia]
 ずっとずっと繰り返される
 この輪廻の遊戯に…
-[2A 0x000390EC 00 *Marisa Remilia]
+[text 000391D0 *Marisa Remilia]
 やっぱお遊戯会かよ…
-[2A 0x000392E0 00 Marisa *Remilia]
+[text 000393C4 Marisa *Remilia]
 違う…！
-[2A 0x000394D4 00 Marisa *Remilia]
+[text 000395B8 Marisa *Remilia]
 ふん、人間の頭じゃ
 理解できないのね
-[2A 0x000396C8 00 *Marisa Remilia]
+[text 000397AC *Marisa Remilia]
 あ！？
-[2A 0x000398BC 00 *Marisa Remilia]
+[text 000399A0 *Marisa Remilia]
 同じ所を何回も何回も
 通ったと思ったら
-[2A 0x00039AB0 00 *Marisa Remilia]
+[text 00039B94 *Marisa Remilia]
 お前の仕業だったんだな！
-[2A 0x00039CA4 00 Marisa *Remilia]
+[text 00039D88 Marisa *Remilia]
 そんな理解で
 よくもここまで来れたものだ…
-[2A 0x00039E98 00 Marisa *Remilia]
+[text 00039F7C Marisa *Remilia]
 関心したぞ、人間…
-[2A 0x0003A08C 00 *Marisa Remilia]
+[text 0003A170 *Marisa Remilia]
 咲夜の増改築かと…
-[2A 0x0003A280 00 Marisa *Remilia]
+[text 0003A364 Marisa *Remilia]
 咲夜のすることは私のすること。
 私の命じる通り咲夜は動く
-[2A 0x0003A474 00 Marisa *Remilia]
+[text 0003A558 Marisa *Remilia]
 でも、増改築はないわ…
-[2A 0x0003A668 00 *Marisa Remilia]
+[text 0003A74C *Marisa Remilia]
 じゃあいったい何をしたんだよ！
-[2A 0x0003A85C 00 Marisa *Remilia]
+[text 0003A940 Marisa *Remilia]
 合わせ鏡をのぞいたことは？
-[2A 0x0003AA50 00 Marisa *Remilia]
+[text 0003AB34 Marisa *Remilia]
 鏡に映る鏡の中の
 鏡の中の鏡の中の鏡の中の鏡…
-[2A 0x0003AC44 00 *Marisa Remilia]
+[text 0003AD28 *Marisa Remilia]
 鏡！？
-[2A 0x0003AE38 00 *Marisa Remilia]
+[text 0003AF1C *Marisa Remilia]
 やっとお宝らしいアイテムが出てきたな
-[2A 0x0003B02C 00 Marisa *Remilia]
+[text 0003B110 Marisa *Remilia]
 合わせ鏡の中の無限の世界で
 ずっと遊んでいたいと思ったのだ
-[2A 0x0003B220 00 Marisa *Remilia]
+[text 0003B304 Marisa *Remilia]
 さとりや早苗、にとりも呼んでな…
-[2A 0x0003B414 00 Marisa *Remilia]
+[text 0003B4F8 Marisa *Remilia]
 魔理沙も霊夢も
 私の大好きなおもちゃだ
-[2A 0x0003B608 00 Marisa *Remilia]
+[text 0003B6EC Marisa *Remilia]
 そう…
 私はもう一度遊びたかった
-[2A 0x0003B7FC 00 Marisa *Remilia]
+[text 0003B8E0 Marisa *Remilia]
 そして…勝つのはこの私よ…！
-[2A 0x0003B9F0 00 *Marisa Remilia]
+[text 0003BAD4 *Marisa Remilia]
 悪いけど
 おもちゃになる気はないな！
-[2A 0x0003BBE4 00 *Marisa Remilia]
+[text 0003BCC8 *Marisa Remilia]
 私の目的はその鏡
 お宝をいただくことだけだ！
-[2A 0x0003BDD8 00 Marisa *Remilia]
+[text 0003BEBC Marisa *Remilia]
 殺る気なのね…
 嬉しい…
-[2A 0x0003BFCC 00 Marisa *Remilia]
+[text 0003C0B0 Marisa *Remilia]
 くくく…そしてそれが
 この私の望みでもある…
-[2A 0x0003C1C0 00 Marisa *Remilia]
+[text 0003C2A4 Marisa *Remilia]
 舞う華の朱のように…
-[2A 0x0003C3B4 00 Marisa *Remilia]
+[text 0003C498 Marisa *Remilia]
 美しく血を散らすの！
-[28 0x0003CA78 00 *Marisa Remilia]
+[text 0003CB70 *Marisa Remilia]
 さっ、お宝をもらおーか
-[2A 0x0003CC80 00 Marisa *Remilia]
+[text 0003CD64 Marisa *Remilia]
 宝が手に入ったとして
 あなたはどうしたいの？
-[2A 0x0003CE74 00 Marisa *Remilia]
+[text 0003CF58 Marisa *Remilia]
 何を得ようというつもりなの？
-[2A 0x0003D068 00 *Marisa Remilia]
+[text 0003D14C *Marisa Remilia]
 より強い魔術！
-[2A 0x0003D25C 00 Marisa *Remilia]
+[text 0003D340 Marisa *Remilia]
 強さを求めるか…
-[2A 0x0003D450 00 Marisa *Remilia]
+[text 0003D534 Marisa *Remilia]
 私は…何が欲しくて
 戦っているのだろうか…
-[2A 0x0003D644 00 *Marisa Remilia]
+[text 0003D728 *Marisa Remilia]
 お前は遊びたかったんだろ？
 私や霊夢をおもちゃにして
-[2A 0x0003D838 00 *Marisa Remilia]
+[text 0003D91C *Marisa Remilia]
 永遠の弾幕ごっことか
 そんな感じじゃないのか？
-[2A 0x0003DA2C 00 Marisa *Remilia]
+[text 0003DB10 Marisa *Remilia]
 そう…そうか…
 ふふ、その通りかもね
-[2A 0x0003DC20 00 Marisa *Remilia]
+[text 0003DD04 Marisa *Remilia]
 私はこの世界が
-[2A 0x0003DE14 00 Marisa *Remilia]
+[text 0003DEF8 Marisa *Remilia]
 悪夢みたいに続く世界が
 いつも愛おしかった…
-[2A 0x0003E008 00 Marisa *Remilia]
+[text 0003E0EC Marisa *Remilia]
 だから運命の断絶を否定した
-[2A 0x0003E1FC 00 Marisa *Remilia]
+[text 0003E2E0 Marisa *Remilia]
 まるで回転木馬みたいに
 ぐるぐるぐるぐる同じ景色
-[2A 0x0003E3F0 00 Marisa *Remilia]
+[text 0003E4D4 Marisa *Remilia]
 楽しいのに、嬉しいのに…
 止められなくなったから…
-[2A 0x0003E5E4 00 *Marisa Remilia]
+[text 0003E6C8 *Marisa Remilia]
 止められないってどういうことだ？
 お前が始めたことだろ？
-[2A 0x0003E7D8 00 Marisa *Remilia]
+[text 0003E8BC Marisa *Remilia]
 きっかけは…そう
-[2A 0x0003E9CC 00 Marisa *Remilia]
+[text 0003EAB0 Marisa *Remilia]
 でも、悪いのはあの鏡。
 「蒼魔鏡」のせいよ
-[2A 0x0003EBC0 00 Marisa *Remilia]
+[text 0003ECA4 Marisa *Remilia]
 私は失敗していない
-[2A 0x0003EDB4 00 *Marisa Remilia]
+[text 0003EE98 *Marisa Remilia]
 失敗って…やっぱり
 お前のせいなんだな！
-[2A 0x0003EFA8 00 Marisa *Remilia]
+[text 0003F08C Marisa *Remilia]
 ふ、ふんっ…！
-[2A 0x0003F19C 00 *Marisa Remilia]
+[text 0003F280 *Marisa Remilia]
 ったく…じゃあお前の力が
 その「蒼魔鏡」ってお宝のせいで
-[2A 0x0003F390 00 *Marisa Remilia]
+[text 0003F474 *Marisa Remilia]
 暴走してるってわけか？
-[2A 0x0003F584 00 Marisa *Remilia]
+[text 0003F668 Marisa *Remilia]
 ふふふふふ…。
 気が遠くなるほどの繰り返し
-[2A 0x0003F778 00 Marisa *Remilia]
+[text 0003F85C Marisa *Remilia]
 同じ紅い霧と
 記憶を失った霊夢とあなた
-[2A 0x0003F96C 00 Marisa *Remilia]
+[text 0003FA50 Marisa *Remilia]
 見ているのは愉快だったわ
-[2A 0x0003FB60 00 *Marisa Remilia]
+[text 0003FC44 *Marisa Remilia]
 でさ。
 どうすればいいんだ？
-[2A 0x0003FD54 00 *Marisa Remilia]
+[text 0003FE38 *Marisa Remilia]
 どうすれば「蒼魔鏡」の暴走を
 止められるんだ？
-[2A 0x0003FF48 00 Marisa *Remilia]
+[text 0004002C Marisa *Remilia]
 何も心配はいらない
-[2A 0x0004013C 00 *Marisa Remilia]
+[text 00040220 *Marisa Remilia]
 は？
-[2A 0x00040330 00 Marisa *Remilia]
+[text 00040414 Marisa *Remilia]
 あなたがここに来たということは
 咲夜の準備がまもなく終わる
-[2A 0x00040524 00 Marisa *Remilia]
+[text 00040608 Marisa *Remilia]
 そろそろ準備が
 整ったに違いないわ
-[2A 0x00040718 00 *Marisa Remilia]
+[text 000407FC *Marisa Remilia]
 それってお茶会の話か？
-[2A 0x0004090C 00 Marisa *Remilia]
+[text 000409F0 Marisa *Remilia]
 他に何がある？
 さあ行くわよ…
-[2A 0x00040B00 00 *Marisa Remilia]
+[text 00040BE4 *Marisa Remilia]
 ちょ、ちょっと待てって！
 鏡はお宝は？
-[2A 0x00040CF4 00 Marisa *Remilia]
+[text 00040DD8 Marisa *Remilia]
 あとで割ってしまうけど？
-[2A 0x00040EE8 00 *Marisa Remilia]
+[text 00040FCC *Marisa Remilia]
 え…まじかよ…
-[2A 0x000410DC 00 Marisa *Remilia]
+[text 000411C0 Marisa *Remilia]
 割らなければ
 誰もここから出られない
-[2A 0x000412D0 00 Marisa *Remilia]
+[text 000413B4 Marisa *Remilia]
 それに…運命の
 新たなはじまりも萌芽しない
-[2A 0x000414C4 00 *Marisa Remilia]
+[text 000415A8 *Marisa Remilia]
 また訳のわかんねーことを
 ちょっとはわかるよう説明しろよな
-[2A 0x000416B8 00 Marisa *Remilia]
+[text 0004179C Marisa *Remilia]
 あなたの頭では無理ね
-[2A 0x000418AC 00 *Marisa Remilia]
+[text 00041990 *Marisa Remilia]
 何だよ！
-[2A 0x00041AA0 00 *Marisa Remilia]
+[text 00041B84 *Marisa Remilia]
 …お茶会ってからには
 ご馳走があるんだろうなっ！
-[2A 0x00041C94 00 Marisa *Remilia]
+[text 00041D78 Marisa *Remilia]
 もちろん。
 咲夜の淹れたとっておきの紅茶もね
-[2A 0x00041E88 00 Marisa *Remilia]
+[text 00041F6C Marisa *Remilia]
 特別なケーキもある
-[2A 0x0004207C 00 *Marisa Remilia]
+[text 00042160 *Marisa Remilia]
 ふうん…
-[2A 0x00042270 00 *Marisa Remilia]
+[text 00042354 *Marisa Remilia]
 じゃ、まあ、いっか！
-[2A 0x00042464 00 *Marisa Remilia]
+[text 00042548 *Marisa Remilia]
 あーっ！？
-[2A 0x00042658 00 Marisa *Remilia]
+[text 0004273C Marisa *Remilia]
 どうした？
-[2A 0x0004284C 00 *Marisa Remilia]
+[text 00042930 *Marisa Remilia]
 霊夢におやつを買ってこいって
 言われてたの思いだした！
-[2A 0x00042A40 00 *Marisa Remilia]
+[text 00042B24 *Marisa Remilia]
 やっべえ、どうしよう…
-[2A 0x00042C34 00 Marisa *Remilia]
+[text 00042D18 Marisa *Remilia]
 ふふ、その心配の必要はないわ
-[2A 0x00042E28 00 Marisa *Remilia]
+[text 00042F0C Marisa *Remilia]
 茶会には菓子がつきもの。
 それに霊夢も招いている
-[2A 0x0004301C 00 *Marisa Remilia]
+[text 00043100 *Marisa Remilia]
 おおっ！
 できる子だなっレミリア！
-[2A 0x00043210 00 Marisa *Remilia]
+[text 000432F4 Marisa *Remilia]
 当たり前よ…
 私を誰だと思っているの？
-[2A 0x00043404 00 Marisa *Remilia]
+[text 000434E8 Marisa *Remilia]
 紅魔館の主にして
 闇の眷属を統べる者
-[2A 0x000435F8 00 Marisa *Remilia]
+[text 000436DC Marisa *Remilia]
 そして…
-[2A 0x000437EC 00 *Marisa Remilia]
+[text 000438D0 *Marisa Remilia]
 愉快なお茶会の主催者だろ？
-[2A 0x000439E0 00 Marisa *Remilia]
+[text 00043AC4 Marisa *Remilia]
 ゆ、愉快な…お茶会…
-[2A 0x00043BD4 00 Marisa *Remilia]
+[text 00043CB8 Marisa *Remilia]
 …まあいいわ。
 さあ、行くわよ
-[2A 0x00043DC8 00 Marisa *Remilia]
+[text 00043EAC Marisa *Remilia]
 血も茶も冷えたものでは
 不愉快なだけだからね
-[28 0x0004448C 00 Marisa *Remilia]
+[text 00044584 Marisa *Remilia]
 あら、不意打ちとは
 なかなか姑息ね
-[2A 0x00044694 00 *Marisa Remilia]
+[text 00044778 *Marisa Remilia]
 まさか効かないなんて…！？
-[2A 0x00044888 00 Marisa *Remilia]
+[text 0004496C Marisa *Remilia]
 発想は良かったけど
 相手が私ということを忘れていたようね
-[2A 0x00044A7C 00 *Marisa Remilia]
+[text 00044B60 *Marisa Remilia]
 ぐぬぬ…
-[2A 0x00044C70 00 Marisa *Remilia]
+[text 00044D54 Marisa *Remilia]
 さあ、続きを始めるわよ！
-[28 0x00045334 02 *Marisa]
+[text 000453D4 *Marisa]
 ああ…
-[2A 0x000454E4 02 *Marisa]
+[text 00045568 *Marisa]
 美味かったな、あのケーキ…
-[2A 0x00045678 02 *Marisa]
+[text 000456FC *Marisa]
 白いクリームの上に
 紅いさくらんぼか…
-[2A 0x0004580C 02 *Marisa]
+[text 00045890 *Marisa]
 あいつもさっさと
 出てくればいいのに
-[2A 0x000459A0 02 *Marisa]
+[text 00045A24 *Marisa]
 そしたら、こうしてわざわざ
 迎えにいく手間も省けたのになっ
-[2A 0x00045B34 02 *Marisa]
+[text 00045BB8 *Marisa]
 まったく
 あれだけ賑やかにやってたら
-[2A 0x00045CC8 02 *Marisa]
+[text 00045D4C *Marisa]
 ふつーは釣られて
 出てくるはずだろ？
-[2A 0x00045E5C 02 *Marisa]
+[text 00045EE0 *Marisa]
 あのままのペースで
 チルノがケーキを食ってたら
-[2A 0x00045FF0 02 *Marisa]
+[text 00046074 *Marisa]
 お茶会のお開きも
 近いってのにさ
-[2A 0x00046184 02 *Marisa]
+[text 00046208 *Marisa]
 …仕方ない。
 あいつのところまで行ってやるか
-[28 0x000467E8 00 *Marisa Remilia]
+[text 000468E0 *Marisa Fran]
 よっ
-[2A 0x000469F0 00 Marisa *Remilia]
+[text 00046AD4 Marisa *Fran]
 黒白！？
-[2A 0x00046BE4 00 *Marisa Remilia]
+[text 00046CC8 *Marisa Fran]
 黒白って…
-[2A 0x00046DD8 00 *Marisa Remilia]
+[text 00046EBC *Marisa Fran]
 私のことか！？
-[2A 0x00046FCC 00 *Marisa Remilia]
+[text 000470B0 *Marisa Fran]
 魔理沙だろ！？
 忘れたのか？
-[2A 0x000471C0 00 Marisa *Remilia]
+[text 000472A4 Marisa *Fran]
 そんなわけないじゃない
-[2A 0x000473B4 00 *Marisa Remilia]
+[text 00047498 *Marisa Fran]
 ！？
-[2A 0x000475A8 00 *Marisa Remilia]
+[text 0004768C *Marisa Fran]
 ったく、フランドールは
 やっとお目覚めみたいだな
-[2A 0x0004779C 00 Marisa *Remilia]
+[text 00047880 Marisa *Fran]
 そう…
 なんだか騒々しいと思って
-[2A 0x00047990 00 Marisa *Remilia]
+[text 00047A74 Marisa *Fran]
 人が寝てる間になにしてたの？
-[2A 0x00047B84 00 *Marisa Remilia]
+[text 00047C68 *Marisa Fran]
 ちょっとお茶会をね
-[2A 0x00047D78 00 Marisa *Remilia]
+[text 00047E5C Marisa *Fran]
 そうなの。
 そんな予定、知らなかったわ
-[2A 0x00047F6C 00 *Marisa Remilia]
+[text 00048050 *Marisa Fran]
 レミリアが
 こっそり計画してたんだ
-[2A 0x00048160 00 *Marisa Remilia]
+[text 00048244 *Marisa Fran]
 それにしてもさ、
 フランドールはお寝坊さんだよな
-[2A 0x00048354 00 *Marisa Remilia]
+[text 00048438 *Marisa Fran]
 おかげで待ちくたびれて
 ちょっと食べ過ぎたじゃん
-[2A 0x00048548 00 Marisa *Remilia]
+[text 0004862C Marisa *Fran]
 お姉さまはどうしているの？
-[2A 0x0004873C 00 *Marisa Remilia]
+[text 00048820 *Marisa Fran]
 レミリアなら
 私のとなりで眠ってたよ
-[2A 0x00048930 00 Marisa *Remilia]
+[text 00048A14 Marisa *Fran]
 ……！
-[2A 0x00048B24 00 Marisa *Remilia]
+[text 00048C08 Marisa *Fran]
 姉様に何したの…
-[2A 0x00048D18 00 *Marisa Remilia]
+[text 00048DFC *Marisa Fran]
 いや別に何も。
 腹いっぱいで寝てるだけで…
-[2A 0x00048F0C 00 Marisa *Remilia]
+[text 00048FF0 Marisa *Fran]
 フフ…
-[2A 0x00049100 00 Marisa *Remilia]
+[text 000491E4 Marisa *Fran]
 フフフフフフフフフ♪
-[2A 0x000492F4 00 Marisa *Remilia]
+[text 000493D8 Marisa *Fran]
 戯言はたくさんよ…人間。
 お姉様に狼藉を働いたうえ
-[2A 0x000494E8 00 Marisa *Remilia]
+[text 000495CC Marisa *Fran]
 館を荒らして
 生きて帰れると思ってるの？
-[2A 0x000496DC 00 *Marisa Remilia]
+[text 000497C0 *Marisa Fran]
 なんかよくわかんないけど
-[2A 0x000498D0 00 *Marisa Remilia]
+[text 000499B4 *Marisa Fran]
 目が覚めて
 やる気になったみてーだな
-[2A 0x00049AC4 00 *Marisa Remilia]
+[text 00049BA8 *Marisa Fran]
 ちょうどいい！
 腹ごなしに対決だ！
-[2A 0x00049CB8 00 Marisa *Remilia]
+[text 00049D9C Marisa *Fran]
 うふふ…さっきまで
 見ていた悪夢の続きが見られるね
-[2A 0x00049EAC 00 Marisa *Remilia]
+[text 00049F90 Marisa *Fran]
 魔理沙も
 一緒に見たい？
-[2A 0x0004A0A0 00 *Marisa Remilia]
+[text 0004A184 *Marisa Fran]
 どんな夢なんだ？
-[2A 0x0004A294 00 Marisa *Remilia]
+[text 0004A378 Marisa *Fran]
 すべてが繰り返されて
 ずうっと終わらないの
-[2A 0x0004A488 00 Marisa *Remilia]
+[text 0004A56C Marisa *Fran]
 それでね…
-[2A 0x0004A67C 00 Marisa *Remilia]
+[text 0004A760 Marisa *Fran]
 私はそれを
 終わらせてしまうから
-[2A 0x0004A870 00 Marisa *Remilia]
+[text 0004A954 Marisa *Fran]
 皆に恨まれてしまうのよ…
-[2A 0x0004AA64 00 *Marisa Remilia]
+[text 0004AB48 *Marisa Fran]
 あ、いや、それって
 きっと正夢だぜ？
-[2A 0x0004AC58 00 Marisa *Remilia]
+[text 0004AD3C Marisa *Fran]
 だったら、ここは
 悪夢の続きなのね
-[2A 0x0004AE4C 00 Marisa *Remilia]
+[text 0004AF30 Marisa *Fran]
 いいわ、あなたのこと
 紅に染めたくなってきた…
-[2A 0x0004B040 00 Marisa *Remilia]
+[text 0004B124 Marisa *Fran]
 殺ってやるわ！！
-[2A 0x0004B234 00 *Marisa Remilia]
+[text 0004B318 *Marisa Fran]
 望むところだ！
-[28 0x0004B8F8 00 *Marisa Remilia]
+[text 0004B9F0 *Marisa Fran]
 ま、こんなもんかな♪
-[2A 0x0004BB00 00 Marisa *Remilia]
+[text 0004BBE4 Marisa *Fran]
 …夢で見たのと違う…
-[2A 0x0004BCF4 00 *Marisa Remilia]
+[text 0004BDD8 *Marisa Fran]
 どんな夢だったんだよ
-[2A 0x0004BEE8 00 Marisa *Remilia]
+[text 0004BFCC Marisa *Fran]
 魔理沙と私が映った
 冷たい硝子みたいな何かを
-[2A 0x0004C0DC 00 Marisa *Remilia]
+[text 0004C1C0 Marisa *Fran]
 私はこうして
 ぎゅっとして…
-[2A 0x0004C2D0 00 *Marisa Remilia]
+[text 0004C3B4 *Marisa Fran]
 パリーン！
 だろっ？
-[2A 0x0004C4C4 00 Marisa *Remilia]
+[text 0004C5A8 Marisa *Fran]
 …！
-[2A 0x0004C6B8 00 Marisa *Remilia]
+[text 0004C79C Marisa *Fran]
 どうして知っているの？
-[2A 0x0004C8AC 00 *Marisa Remilia]
+[text 0004C990 *Marisa Fran]
 だからさっき言っただろ？
 正夢っぽいって
-[2A 0x0004CAA0 00 *Marisa Remilia]
+[text 0004CB84 *Marisa Fran]
 あとでさ「蒼魔鏡」って鏡を
 壊してほしいんだ
-[2A 0x0004CC94 00 *Marisa Remilia]
+[text 0004CD78 *Marisa Fran]
 じゃないと
 誰もここから出られないし
-[2A 0x0004CE88 00 *Marisa Remilia]
+[text 0004CF6C *Marisa Fran]
 私たちも
 家に帰れないからさっ
-[2A 0x0004D07C 00 Marisa *Remilia]
+[text 0004D160 Marisa *Fran]
 誰も外に出られないのは
 悲しいことかもしれないけど
-[2A 0x0004D270 00 Marisa *Remilia]
+[text 0004D354 Marisa *Fran]
 ちょっとそれもいいかも…
-[2A 0x0004D464 00 Marisa *Remilia]
+[text 0004D548 Marisa *Fran]
 ずっと一緒ね
-[2A 0x0004D658 00 *Marisa Remilia]
+[text 0004D73C *Marisa Fran]
 いや、それは勘弁…
-[2A 0x0004D84C 00 Marisa *Remilia]
+[text 0004D930 Marisa *Fran]
 ！？
-[2A 0x0004DA40 00 *Marisa Remilia]
+[text 0004DB24 *Marisa Fran]
 いやいや、ショック受けるなよ！
-[2A 0x0004DC34 00 *Marisa Remilia]
+[text 0004DD18 *Marisa Fran]
 一緒に仲良くとかが
 嫌なんじゃなくて
-[2A 0x0004DE28 00 *Marisa Remilia]
+[text 0004DF0C *Marisa Fran]
 外に出られないのが
 困るってことだから！
-[2A 0x0004E01C 00 Marisa *Remilia]
+[text 0004E100 Marisa *Fran]
 ふう…
-[2A 0x0004E210 00 Marisa *Remilia]
+[text 0004E2F4 Marisa *Fran]
 魔理沙、今のは冗談よ
-[2A 0x0004E404 00 *Marisa Remilia]
+[text 0004E4E8 *Marisa Fran]
 真顔すぎるだろ！
-[2A 0x0004E5F8 00 *Marisa Remilia]
+[text 0004E6DC *Marisa Fran]
 ま、いいや。
 ほら、早く行こっ
-[2A 0x0004E7EC 00 Marisa *Remilia]
+[text 0004E8D0 Marisa *Fran]
 お茶会に…？
 外に出るのは…
-[2A 0x0004E9E0 00 *Marisa Remilia]
+[text 0004EAC4 *Marisa Fran]
 ああ、大丈夫。
 庭でやってるけど
-[2A 0x0004EBD4 00 *Marisa Remilia]
+[text 0004ECB8 *Marisa Fran]
 今は紅い霧が出てるから
 だったら吸血鬼でも平気だろ？
-[2A 0x0004EDC8 00 *Marisa Remilia]
+[text 0004EEAC *Marisa Fran]
 ほら、外に出るんだよ
-[2A 0x0004EFBC 00 Marisa *Remilia]
+[text 0004F0A0 Marisa *Fran]
 …わかった
-[2A 0x0004F1B0 00 Marisa *Remilia]
+[text 0004F294 Marisa *Fran]
 お茶会、楽しみね
-[2A 0x0004F3A4 00 *Marisa Remilia]
+[text 0004F488 *Marisa Fran]
 だろ？
-[2A 0x0004F598 00 *Marisa Remilia]
+[text 0004F67C *Marisa Fran]
 白いクリームと
 紅いさくらんぼがのってるさ
-[2A 0x0004F78C 00 *Marisa Remilia]
+[text 0004F870 *Marisa Fran]
 すごい美味いケーキがあるんだ
-[2A 0x0004F980 00 *Marisa Remilia]
+[text 0004FA64 *Marisa Fran]
 チルノが狙ってたけど
 咲夜に確保させてるから
-[2A 0x0004FB74 00 Marisa *Remilia]
+[text 0004FC58 Marisa *Fran]
 ありがとう、優しいわね
-[2A 0x0004FD68 00 *Marisa Remilia]
+[text 0004FE4C *Marisa Fran]
 そ、そうでもないけどなっ
-[2A 0x0004FF5C 00 *Marisa Remilia]
+[text 00050040 *Marisa Fran]
 ほらみんな待ってるんだから
 さっさと行くぞ！
-[2A 0x00050150 00 Marisa *Remilia]
+[text 00050234 Marisa *Fran]
 ふうん…みんなか…
-[2A 0x00050344 00 Marisa *Remilia]
+[text 00050428 Marisa *Fran]
 たまになら
 それもいいかもしれない
-[2A 0x00050538 00 Marisa *Remilia]
+[text 0005061C Marisa *Fran]
 魔理沙…
-[2A 0x0005072C 00 *Marisa Remilia]
+[text 00050810 *Marisa Fran]
 ん？
-[2A 0x00050920 00 Marisa *Remilia]
+[text 00050A04 Marisa *Fran]
 太っちゃうから…
 お茶会では…
-[2A 0x00050B14 00 Marisa *Remilia]
+[text 00050BF8 Marisa *Fran]
 もうコンティニューできないね
-[28 0x000511D8 02 *Marisa]
+[text 00051278 *Marisa]
 なっなんだ！？
-[2A 0x00051388 02 *Marisa]
+[text 0005140C *Marisa]
 何も見えないし、これって！？
-[2A 0x0005151C 02 *Marisa]
+[text 000515A0 *Marisa]
 どこへ連れてかれるんだ…
-[2A 0x000516B0 02 *Marisa]
+[text 00051734 *Marisa]
 元の場所に流されてるのか…？
-[28 0x00051D14 02 *Marisa]
+[text 00051DB4 *Marisa]
 ん？
-[2A 0x00051EC4 02 *Marisa]
+[text 00051F48 *Marisa]
 ここはどこだ？
-[2A 0x00052058 02 *Marisa]
+[text 000520DC *Marisa]
 わっ、ちょ、ちょっと待てって！
 身体がいうことをきかねー！？
-[2A 0x000521EC 02 *Marisa]
+[text 00052270 *Marisa]
 このままどこかに流されて…
