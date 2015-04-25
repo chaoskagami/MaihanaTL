@@ -310,12 +310,14 @@ void extract (char* out) {
 					free(c2);
 
 					i += sizeof(block_help_2a) - 1;
-				} else {
+				} else if (c1->pre.Magic == 0x40) {
+					// One character block.
 					fprintf(export, " 02 *%s]\n%s\n", 		vol2char(c1->charA.VolName),
 												c1->text.TextData);
 
 					i += sizeof(block_1char_2a) - 1;
 				}
+				// Otherwise, IDK. Ignore it.
 			}
 
 			free(c1);
@@ -356,12 +358,13 @@ void extract (char* out) {
 					free(c2);
 
 					i += sizeof(block_help_28) - 1;
-				} else {
+				} else if (c1->pre.Magic == 0x40) {
 					fprintf(export, " 02 *%s]\n%s\n", 		vol2char(c1->charA.VolName),
 												c1->text.TextData);
 
 					i += sizeof(block_1char_28) - 1;
 				}
+				// Otherwise, IDK. Ignore it.
 			}
 
 			free(c1);
@@ -375,6 +378,7 @@ void extract (char* out) {
 
 			i += sizeof(text_ent) - 1;
 		}
+		// Anything not caught shouldn't be, unless I RE'd wrong.
 	}
 
 	fflush(export);
