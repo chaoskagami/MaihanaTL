@@ -10,6 +10,10 @@ if [ "$1" == "" ]; then
 	exit 0
 fi
 
+if [ ! -e tools/scetool ]; then
+	gcc -o tools/scetool tools/src/scetool.c
+fi
+
 cd scripts
 if [ -d $1 ] && [ -d ../data/Data/Sce ]; then
 	cd $1
@@ -20,7 +24,7 @@ if [ -d $1 ] && [ -d ../data/Data/Sce ]; then
 
 		if [ -e $CURRENT_VOL.txt ]; then
 			mv ../../data/Data/Sce/$CURRENT_VOL.vol{,.bak}
-			../../tools/scetool.$(uname -m) inject ../../data/Data/Sce/$CURRENT_VOL.vol.bak $CURRENT_VOL.txt ../../data/Data/Sce/$CURRENT_VOL.vol
+			../../tools/scetool inject ../../data/Data/Sce/$CURRENT_VOL.vol.bak $CURRENT_VOL.txt ../../data/Data/Sce/$CURRENT_VOL.vol
 		fi
 	done
 	

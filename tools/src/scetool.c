@@ -205,6 +205,9 @@ void inject (char* out, char* script) {
 								break;
 						}
 						break;
+					case 0x1D:
+						memcpy(((text_ent*)&buffer[offset])->TextData,str,256);
+						break;
 				}
 			}
 
@@ -362,6 +365,15 @@ void extract (char* out) {
 			}
 
 			free(c1);
+		} else if (buffer[i] == 0x1D) {
+			// Raw text block - no formatting. This is a fallback for when there's no real formatting.
+
+			text_ent* c1 = (text_ent*)calloc(sizeof(text_ent), 1);
+			memcpy(c1, &buffer[i], sizeof(text_ent));
+				
+			fprintf(export, "[1D 0x%08lX 00]\n%s\n", i, c1->TextData);
+
+			i += sizeof(text_ent) - 1;
 		}
 	}
 
