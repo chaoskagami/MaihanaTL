@@ -32,7 +32,7 @@ if [ -d $1 ] && [ -d ../data/Data/Sce ]; then
 
 	# Apply deltas.
 
-	for f in *.xdelta3; do
+	for f in `ls`; do
 		APPLYTO=$(basename $f .xdelta3)
 
 		mv ../../data/${APPLYTO}{,.bak}

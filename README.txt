@@ -80,8 +80,8 @@ information I know how to extract from what I have RE'd.
 
 You have only 256 bytes to work with for dialogue. By default, sjis
 can only have 128, but the program doesn't give a shit and both
-does variable width and doesn't mind them being packed together. It
-must end zero terminated. Also, newlines are inserted as 0x0A, so
+does variable width and doesn't mind them being packed together.
+That said, because only 256 bytes are available, reecoding the script as UTF-8 overflows. Don't try that. It must end zero terminated. Also, newlines are inserted as 0x0A, so
 DON'T USE WINDOWS LINE FORMATTING. PERIOD. I have no clue what havok \r
 could wreak on my code or the game, and it's a wasted byte. Also, you
 need to figure where newlines go manually - they are not automatic.
