@@ -1,4 +1,10 @@
 ======================================================================
+NOTICE - This repo is probably broken. You should just go buy the 
+official release from the Nintendo eShop or PSN under the title
+Azure Relfections instead of using this shit. It's left only here as
+a reference to other programmers and people who are willing to
+decipher my garbage with zero aid.
+======================================================================
 'Maihana Ao Makyou ~ Uniting Barrage Action' English Translation
 
            NOTE   The game needs to be patched to 1.12.
